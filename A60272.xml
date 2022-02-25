@@ -1,0 +1,728 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Zenexton ante-pestilentiale. Or, A short discourse of the plague its antidotes and cure, according to the placets of the best of physicians, Hippocrates, Paracelsus, and Helmont. By W. Simpson, Philo-Medico-Chymic.</title>
+            <author>Simpson, William, M.D.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 95 KB of XML-encoded text transcribed from 54 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60272</idno>
+            <idno type="STC">Wing S3839</idno>
+            <idno type="STC">ESTC R221491</idno>
+            <idno type="EEBO-CITATION">99832789</idno>
+            <idno type="PROQUEST">99832789</idno>
+            <idno type="VID">37263</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60272)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37263)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2060:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Zenexton ante-pestilentiale. Or, A short discourse of the plague its antidotes and cure, according to the placets of the best of physicians, Hippocrates, Paracelsus, and Helmont. By W. Simpson, Philo-Medico-Chymic.</title>
+                  <author>Simpson, William, M.D.</author>
+               </titleStmt>
+               <extent>[6], 100 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for George Sawbridge, at the sign of the Bible upon Ludgate-hill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Hippocrates ... Helmont" connected by right and left brace.</note>
+                  <note>Imperfect; tightly bound.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Plague --  England --  Early works to 1800.</term>
+               <term>Medicine --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37263:1" rendition="simple:additions"/>
+            <p>
+               <hi>Zenexton Ante-Peſtilentiale.</hi> OR, A ſhort Diſcourſe OF THE PLAGUE: Its <hi>Antidotes</hi> and <hi>Cure,</hi> According to the PLACETS of the beſt of <hi>Phyſicians,</hi> HIPPOCRATES, PARACELSUS, and HELMONT.</p>
+            <p>By <hi>W. Simpſon,</hi> Philo-Medico-Chymic.</p>
+            <q>
+               <p>Opera danda eſt Chirurgo, ut vires gemmarum, herbarum, radicum, ac ſeminum coelitùs infuſas ad peſtem, accurate cognoſcat.</p>
+               <bibl>
+                  <hi>Paracelſ. Chirur. Magn. p. 22.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>George Sawbridge,</hi> at the Sign of the Bible upon <hi>Ludgate-hill,</hi> 1665.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:37263:2"/>
+            <pb facs="tcp:37263:2"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>Candid Friend,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Have ventured here into a Bottom, which, whether it ſink or ſwim in the Vulgar Opinion, I matter not; I have expoſed my ſelf to Publick View in the penning of theſe few Lines; a Hazard I confeſs ſuf<g ref="char:EOLhyphen"/>ficient to have diſcouraged a <hi>Tyro,</hi> to lie open to the Car<g ref="char:EOLhyphen"/>pings of ſome, and to the Cri<g ref="char:EOLhyphen"/>ticalneſs of others byaſſed and prepoſſeſſed perſons; had not my <hi>Genius</hi> been born up by the ſatisfaction of the Truth of what I write, and that from a good end, and therefore have can<g ref="char:EOLhyphen"/>didly
+<pb facs="tcp:37263:3"/>imparted thoſe grand Se<g ref="char:EOLhyphen"/>crets of <hi>Hippocrates</hi> and <hi>Hel<g ref="char:EOLhyphen"/>mont</hi> againſt a Diſeaſe, that at the writing hereof was on the increaſing hand. And therefore I ſhall ſay to the unbyaſſed Rea<g ref="char:EOLhyphen"/>der, that I thought in my own breaſt I ſhould do no ſmall piece of Service to my own Country (eſpecially in ſuch a Juncture as this) in deſcribing the Na<g ref="char:EOLhyphen"/>ture and Eſſence of this ſo dire<g ref="char:EOLhyphen"/>ful a Diſeaſe as the <hi>Plague:</hi> and alſo that we might not only know where the Malady lay, but alſo be inſtructed where to find a Remedy; Therefore I have ſet open one Gate into the Maga<g ref="char:EOLhyphen"/>zine or Treaſury of Chymical Medicines, whereby we may be furniſhed with at leaſt ſome
+<pb facs="tcp:37263:3"/>Spagyrical Antidotes, which may, by the bleſsing of God, be uſeful in their places: I ſhall, I confeſs, much wonder if many <hi>Errata's</hi> be not committed both by Me and the Printer, ſeeing I have endeavor'd to huddle it up in haſte, having not had paſt eight days time ſince I begun, and that too ſnatch'd from my o<g ref="char:EOLhyphen"/>ther Affairs of my Elaboratory, repairing of Houſen, and other domeſtick and abroad-Buſineſs. Some perhaps will be ready to impeach me with Tautology in repeating the words <hi>Idea, Fer<g ref="char:EOLhyphen"/>ment, Archeus, &amp;c.</hi> ſo often o<g ref="char:EOLhyphen"/>ver, to which I ſhall truly ſay, That I was ready to accuſe my ſelf thereof, but could not with<g ref="char:EOLhyphen"/>out impairing the ſenſe leave
+<pb facs="tcp:37263:4"/>them forth: for, though as to my ſelf I could well have often for<g ref="char:EOLhyphen"/>born them, yet I eſpied a flaw often if they were omitted, which might eaſily invert the ſenſe of the ſentence; therefore I ra<g ref="char:EOLhyphen"/>ther let them paſs. If this be fa<g ref="char:EOLhyphen"/>vorably received, its probable it may give encouragement to the divulging of ſomewhat elſe in Chymical Phyſick, <hi>viz.</hi> the fruits of my daily Labors in the Spa<g ref="char:EOLhyphen"/>gyrick Science. In the interim peruſe this with an unbyaſſed judgment, and paſs not ſentence till thou knoweſt thou art a com<g ref="char:EOLhyphen"/>petent Judg.</p>
+            <closer>
+               <salute>Farewell.</salute>
+               <signed>Thine, <hi>W. Simpſon.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:37263:4"/>
+            <head>Zenexton Ante-Peſtilentiale, <hi>&amp;c.</hi>
+            </head>
+            <p>TO give an account to the World why I attempt ſo difficult a Task as to treat of the <hi>Pest</hi> or <hi>Plague,</hi> that greateſt of Contagions that ever was in the World, whereby God is pleaſed to permit multitudes of people to be ſwept away, and thereby, as it were, to thin the Earth: And not rather leave it to riper judgments and more mature underſtandings, whoſe grey-hair'd Experience, if nothing elſe, might be deem'd to ſet off theſe <hi>Arcana Naturae abſtruſiora</hi> or more hidden ſecrets of Nature, with a better and more reſplendent luſtre. I ſay, the reaſons why I ſet upon this Work, which ſome may (and
+<pb n="2" facs="tcp:37263:5"/>that perhaps not enviouſly) think unproportionable to my ſhoulders, is;</p>
+            <p>Firſt, Becauſe I have not ſeen, as yet, another ſtep forth with his Bow and his Sling againſt this great <hi>Goliah,</hi> which may probably (if not prevented by Divine Providence ei<g ref="char:EOLhyphen"/>ther raiſing up Inſtruments who may ſhew forth his Wonders that he has planted in Nature, or by a more immediate hand ſtay the Fu<g ref="char:EOLhyphen"/>ry thereof:) may, I ſay, knock down thouſands of people ere the ſting thereof be dinted; and there<g ref="char:EOLhyphen"/>fore calls for ſome to ſtand up whoſe Names are written in the Vo<g ref="char:EOLhyphen"/>lume of Nature as well as of Grace, to ſhew forth the Wonders of the Moſt High.</p>
+            <p n="2">2. Becauſe God has not left us deſtitute of means even in the moſt deplorable caſes (unleſs he has de<g ref="char:EOLhyphen"/>termin'd the ruine of a Family, a Town, a City, Country, or People
+<pb n="3" facs="tcp:37263:5"/>through the crying ſins thereof) and for that purpoſe has planted in his wonder-works of Nature ſuch a Treaſury as therein to be found a Remedy for every Malady, which are not often handed forth to the unworthy, though otherwiſe never ſo induſtrious, upon ſelfiſh intereſt; who are like thoſe that grope for light at noon-day, who in the midſt of light are yet in darkneſs: but it pleaſeth God the Primitive Author and Fountain of Nature to enligh<g ref="char:EOLhyphen"/>ten thoſe in Him accepted perſons with his gift of light and knowledg in the things of the outward Na<g ref="char:EOLhyphen"/>ture, ſo as they may be enabled through his inſpiring light, from whom every good and perfect gift proceedeth, to ſingle forth thoſe Specifick Remedies as they lie in the boſom of Nature againſt every Ma<g ref="char:EOLhyphen"/>lady and Infirmity (to which Hu<g ref="char:EOLhyphen"/>mane Nature in its outward being is moſt prone) who likewiſe are
+<pb n="4" facs="tcp:37263:6"/>taught to exalt thoſe Medicinal pro<g ref="char:EOLhyphen"/>perties according to the intention of Nature to their higheſt energy and efficacy. We therefore who are Sons of <hi>Pyrotechny,</hi> and wait for our <hi>Diploma</hi> from the Moſt High, are, by the bleſſing of God ſucceeding our endeavors, in a better capacity of making our grand in<g ref="char:EOLhyphen"/>queſts into the ſecrets of Nature, the Hand-maid of God, than thoſe loiterers in the Vineyard; I mean the <hi>Galeniſts,</hi> who like the angry Waſps neither work themſelves nor yet would willingly ſuffer others, leſt by the fruits of their Labors, (which at length will overcome) the droniſh <hi>Galeniſts</hi> in time be degra<g ref="char:EOLhyphen"/>ded, who now according to all pro<g ref="char:EOLhyphen"/>bability (ſeeing a better light to Phyſick ſprings up from the anato<g ref="char:EOLhyphen"/>mizing Art of Chymiſtry) are at the declining hand.</p>
+            <p n="3">3. The third reaſon may be from the imminent danger and extraor<g ref="char:EOLhyphen"/>dinary
+<pb n="5" facs="tcp:37263:6"/>urgency and neceſſity of the preſent time, whereby this Na<g ref="char:EOLhyphen"/>tion is threatned with one, if not more, of that trine of thoſe epide<g ref="char:EOLhyphen"/>mical ſweeping Judgments, which God permits to come upon the face of the Earth, when his wrath is ſtir<g ref="char:EOLhyphen"/>red up by the exorbitant vanities and crying wickedneſſes of a Peo<g ref="char:EOLhyphen"/>ple; ſo that many <hi>Moſes's</hi> had need to ſtand in the Gap and cry, leſt the Vials of wrath be poured forth af<g ref="char:EOLhyphen"/>ter an extraordinary manner upon a gainſaying People: And ſeeing, as the Wiſe man ſaith, that, <hi>of the Moſt High cometh healing,</hi> and that <hi>the Lord hath created Medicines out of the earth, and he that is wiſe Will not abhor them.</hi> And that <hi>God hath created the Phyſician:</hi> And there<g ref="char:EOLhyphen"/>fore the Wonders of God in his creation of Medicines out of the earth, ought not to become as Cy<g ref="char:EOLhyphen"/>phers through ignorance and un<g ref="char:EOLhyphen"/>worthineſs, but, by the ſtrength and
+<pb n="6" facs="tcp:37263:7"/>enabling power of God, to improve our Abilities and Talents which he has beſtowed upon us that we may not hide them in a Napkin, but im<g ref="char:EOLhyphen"/>prove them to the utmoſt every one in his capacity and order, in his ge<g ref="char:EOLhyphen"/>neration, to do what good he can; for we are here as Stewards every one intruſted with a Talent to im<g ref="char:EOLhyphen"/>prove, which who lays out to the beſt advantage and doth the moſt good in his place, receives the grea<g ref="char:EOLhyphen"/>teſt Reward of the Heavenly Do<g ref="char:EOLhyphen"/>nor.</p>
+            <p n="4">4. The laſt reaſon, and that which as to my own particular was <hi>inſtar omnium,</hi> was, the bent of my own <hi>Genius,</hi> which I confeſs has been captivated amongſt the reſt of my <hi>Spagrrick</hi> Inquiries after a peculiar manner to ſearch for an Antidote and Cure of ſome highly malignant Feaver, which I was apt to think might ere long appear upon the Stage of the World as an epidemi<g ref="char:EOLhyphen"/>cal
+<pb n="7" facs="tcp:37263:7"/>Diſeaſe, and certainly the <hi>Plague</hi> is the higheſt and moſt malignant of Feavers. It was the current, I ſay, of my own inclination, prompted by an inward hand, that led me that way, that I could not but take notice of: It was that amongſt the reſt of my Fire-works that put an edg upon my deſire of doing good in my generation, that I might not be found in idleneſs, drolling away my precious time either in vanities or in empty ſpeculations, but in ex<g ref="char:EOLhyphen"/>perimental eſſays of thoſe Medici<g ref="char:EOLhyphen"/>nal Vertues which otherwiſe lie dormant under their ſhells and husks; ſeeing God keeps his Jewels of hidden Energetical Vertues, ſuch as are Healing Endowments of things, under Lock and Key, as I may ſay, and will not let them go unleſs the Artiſt have the Key from him, who thereby is let into the ſe<g ref="char:EOLhyphen"/>cret Meanders of beautiful Nature, and ſees the many, and yet orderly
+<pb n="8" facs="tcp:37263:8"/>windings and turnings in that great Labyrinth, where indeed Healing is ſeen to be <hi>the gift of God.</hi>
+            </p>
+            <p>Now that I may buckle to the Point, and in ſhort but compendi<g ref="char:EOLhyphen"/>ous diſcourſe (waving prolixity) may ſignifie the eſſential nature of the <hi>Plague,</hi> its manner of ſurpri<g ref="char:EOLhyphen"/>zing and deſtroying the body: alſo the probable way of Antidote and Cure, if curable, that ſo we may not appear altogether barren in the Theory.</p>
+            <p>The <hi>Plague</hi> therefore is a certain virulent and contagious Ferment conceiv'd from without or within the body, ſeizing upon the vital <hi>Archeus,</hi> or ſpirit of life, with a kind of fear and terror, and boyls in the blood; and in its fermenting, impreſſeth its malignity upon all the principal parts and humors of the body, whereby the blood preſently putrefies, and ſends forth <hi>bubo's, ſores, ſtigmata, &amp;c.</hi> the immediate
+<pb n="9" facs="tcp:37263:8"/>badges of its mortification, and ſo works in the blood and ſpirits til ſuch time (which is ſpeedy) as the vital Lamp burns dim and ſhort<g ref="char:EOLhyphen"/>ly becomes extinct, much like a ma<g ref="char:EOLhyphen"/>lignant combuſtible halituous Mine<g ref="char:EOLhyphen"/>ral Sulphur which is ſometimes found in Mines under the earth, which blows forth a Candle, and ſometimes ſtifles the vital fire of the Laborators.</p>
+            <p>Firſt, I ſay, it is a virulent and contagious Ferment, <hi>viz.</hi> A poy<g ref="char:EOLhyphen"/>ſonous and infective operating pow<g ref="char:EOLhyphen"/>er: now Ferments are certain pow<g ref="char:EOLhyphen"/>ers in Nature whereby all things are put into a way of change either for good or bad; for, Ferments are the Parents of tranſmutation out of one form into another, or from one de<g ref="char:EOLhyphen"/>gree to another, whereby things are brought on to their higheſt energy either for good or bad; by Fer<g ref="char:EOLhyphen"/>ments fixed things are made vola<g ref="char:EOLhyphen"/>tile, and volatile fix'd; they are the
+<pb n="10" facs="tcp:37263:9"/>keys of Nature whereby great chan<g ref="char:EOLhyphen"/>ges and alterations are made in bo<g ref="char:EOLhyphen"/>dies.</p>
+            <p>Now every thing that has a ve<g ref="char:EOLhyphen"/>getating life has alſo a ferment im<g ref="char:EOLhyphen"/>planted in it w<hi rend="sup">ch</hi> is a certain working power whereby the wheel of Na<g ref="char:EOLhyphen"/>ture becomes ſtirring and active in that beeing and demonſtrates its ſelf in the ſeveral gradations of the ſame thing both in its production, increaſe, <hi>(acmn)</hi> full growth, de<g ref="char:EOLhyphen"/>clining, and at length paſſing off the ſtage into another form.</p>
+            <p>Now as Ferments are indemon<g ref="char:EOLhyphen"/>ſtrable <hi>à priori,</hi> inaſmuch as they are certain original operative powers which God has implanted in every natural beeing, and therefore there is not any thing <hi>(prius,</hi> or) be<g ref="char:EOLhyphen"/>fore them by which they might be evidenc'd what they are; but they ſhew themſelves ſufficient<g ref="char:EOLhyphen"/>ly that they are, and what they are by their fruits, effects and ſymp<g ref="char:EOLhyphen"/>toms,
+<pb n="11" facs="tcp:37263:9"/>which are demonſtrations <hi>à poſteriori,</hi> and ſufficient to evince the truth of their exiſtency; as for inſtance, that natural digeſtive pow<g ref="char:EOLhyphen"/>er which God has plac'd in the ſto<g ref="char:EOLhyphen"/>mach of all creatures, whereby the Aliment that is taken in, though of ſeveral ſorts of food, is all reduced by the analyzing vertue thereof into an <hi>acid cremor,</hi> (though taken in with other properties of ſweet, bit<g ref="char:EOLhyphen"/>ter, <hi>&amp;c.</hi>) and ſo turns all into a primitive prepared juyce for the nouriſhment of the body after its tranſits through other digeſtions, fitted for the ſame purpoſe to bring the nutriment on by ſeveral degrees to become a balſamick ſpi<g ref="char:EOLhyphen"/>rituous liquor fit for irrigating and nouriſhing the ſolid parts, which no ſolitary heat, though never ſo ar<g ref="char:EOLhyphen"/>tificially contrived, could without theſe innate digeſtions or ferments, ever bring to paſs; therefore they demonſtrate themſelves to be and
+<pb n="12" facs="tcp:37263:10"/>to do, what no other things can be or do beſides themſelves.</p>
+            <p>In like manner the <hi>Peſt</hi> as alſo ſome other Diſeaſes are <hi>entia realia, viz.</hi> real beeings, which have a be<g ref="char:EOLhyphen"/>ginning, an encreaſe, and growth, a fulneſs of ſtature, whereby they either conquer that which they riſe up againſt, <hi>viz.</hi> the vital ſpirit, or they are conquered and begin to decline and are as other natural bee<g ref="char:EOLhyphen"/>ings tranſmuted into other forms. Now I ſay, the <hi>Peſt</hi> is not demon<g ref="char:EOLhyphen"/>ſtrable <hi>à priori,</hi> though the ſpirit o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the humane life as conſidered in its integrity and ſoundneſs is pre-exi<g ref="char:EOLhyphen"/>ſtent before the ſeizing of the viru<g ref="char:EOLhyphen"/>lency of the peſtiferous ferment, yet then they are as two diſtinct beeings which at their encounter ſtrive for maſterhood, as two Antagoniſts or Champions ſtriving to van<g ref="char:EOLhyphen"/>quiſh one another. <hi>Inſultat ho<g ref="char:EOLhyphen"/>ſtem, &amp;c.</hi>
+            </p>
+            <p>And though the <hi>Peſt</hi> have a real
+<pb n="13" facs="tcp:37263:10"/>exiſtency in its ſelf, as for inſtance, its lying dormant in rags, veſtments, flax, walls, <hi>&amp;c.</hi> Wherein it has yet all the lineaments and proportions lurking within its own ſphere, and as really the ſame beeing of the <hi>Plague</hi> or peſtiferous <hi>ens,</hi> as if it came in combat with the vital ſpirit, yet I ſay, as to us and as to the ef<g ref="char:EOLhyphen"/>fect it would work, it is as nothing or a meer dormitant <hi>ens</hi> that lieth buried in its aſhes, unleſs it be con<g ref="char:EOLhyphen"/>temper'd with our humane Mummy and then it becomes an actual and fermental peſtiferous entity, pro<g ref="char:EOLhyphen"/>ducing its various effects, and ſymp<g ref="char:EOLhyphen"/>toms within the ſphere of the Mi<g ref="char:EOLhyphen"/>crocoſm, moſtwhat to the ruine of the vital ſtructure; and doth not as moſt other diſeaſes which with the ſuine of the vital flame extinguiſh <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lſo themſelves, but out-lives the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>fe and skips into another body to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct the ſame ſcene over again, after <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s tyrannical a manner as ever,
+<pb n="14" facs="tcp:37263:11"/>
+               <hi>vireſque acquirit eundo.</hi>
+            </p>
+            <p>It is a poyſonous ferment to the life, and therefore in its fermenting or working it inverts the whole frame of Nature, and what other diſeaſes effect in a long time by, as it were, often biting and nibling and obſcuring the vital flame, till at length they worm out the life: this like a nimble Arſenical combuſtible Mineral Sulphur, ſets roughly upon the vital Taper, and with a quick malignant Blaſt extinguiſheth it, and that, as it were, it devours <hi>ore o<g ref="char:EOLhyphen"/>perto.</hi>
+            </p>
+            <p n="2">2. This contagious Ferment is con<g ref="char:EOLhyphen"/>ceived either from within, or from without the body: from within, as when an Idea of fear impreſſeth it<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> character upon ſome more then or<g ref="char:EOLhyphen"/>dinary putrid excrementitious mat<g ref="char:EOLhyphen"/>ter reſiding in the Inteſtines or in the ultimate digeſtion, and the Idea clothes its ſelf with corporiety in the putrid excrement of the body
+<pb n="15" facs="tcp:37263:11"/>and the putrid matter becomes ſpi<g ref="char:EOLhyphen"/>ritful in the Idea, and both together become by irritating and invigora<g ref="char:EOLhyphen"/>ting one another, a fermental poy<g ref="char:EOLhyphen"/>ſon which makes its on-ſet upon the vital Archeus, entring the liſts of contention therewith; and, by this virulency that they have one wrought the other into, it becomes contagious, ſo that every ſpark and vibration of this fermental fire re<g ref="char:EOLhyphen"/>tains the Idea and platform of the whole peſtiferous contagion; <hi>
+                  <g ref="char:V">Ʋ</g>nica prava pecus, &amp;c.</hi>
+            </p>
+            <p>For though one who is infected with this pernicious and moſt-what mortal Diſeaſe doth infect another, yet doth it rage never awhit the leſs in the firſt, nor is it in the ſecond, or he who is infected at the ſecond hand any thing leſs, though but a ſpark of the firſt or original; ſo that every vibration (though as to conception never ſo little) of a fermental contagion retains the
+<pb n="16" facs="tcp:37263:12"/>ſeed, and that the whole platform of the Diſeaſe it ſelf, inaſmuch as every ferment is as an Imp or Sci<g ref="char:EOLhyphen"/>on of a Fruit-tree which hides in it ſelf the image of the whole Tree, and wants but time and the conſpi<g ref="char:EOLhyphen"/>ring of ſeaſons (Art having Na<g ref="char:EOLhyphen"/>ture for its ground-work) to ſhew forth the Idea of the ſame Tree it was taken from, both as to leaves, flowers, and fruit: ſo that ſeeds are ſmall in bulk even ſcarce imaginable, and yet theſe, accord<g ref="char:EOLhyphen"/>ing to the appointment of God in Nature have ferments annexed to them, whereby the Idea's of things aſſume to themſelves the elemental water for a body, wherein they diſ<g ref="char:EOLhyphen"/>play the lively images of what lay dormant and not perceivable before in their minute corpuſcles of Seed.</p>
+            <p>All which ſolves us this Medical Phaenomenon, <hi>viz.</hi> How it comes to paſs that thoſe who moſt fear ha<g ref="char:EOLhyphen"/>ving the ſmall Pox, ſpotted Feaver,
+<pb n="17" facs="tcp:37263:12"/>and ſuch like diſeaſes which have a degree of virulency in them, and therefore are a kind of Peſt in an in<g ref="char:EOLhyphen"/>ferior manner; how ſuch, I ſay, who are moſt afraid are the ſooneſt infe<g ref="char:EOLhyphen"/>cted, as I knew a Phyſician who had ſuch an inbred fear againſt the ſmall Pox, that he would ſcarce, if at all, venture into a houſe where any was troubled with that diſeaſe; and yet, for all his curioſity of avoiding pla<g ref="char:EOLhyphen"/>tes, was ſnatch'd with it at length even in the flower of his years and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ied. I ſay, it appears to me from what is laid down afore, what may <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſily looſe this knot, and that is, The Idea of fear or terror may ſo work upon an excrement even of a<g ref="char:EOLhyphen"/>ny of the digeſtions (for every di<g ref="char:EOLhyphen"/>geſtion has its way of ſeparating the impure from the pure which is nu<g ref="char:EOLhyphen"/>trimental) as to cauſe that excre<g ref="char:EOLhyphen"/>ment yet to degenerate further, e<g ref="char:EOLhyphen"/>ven to a putredneſs, and in that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntred matter the Idea becomes
+<pb n="18" facs="tcp:37263:13"/>corporeal, and the putrid matter in the Idea becomes active and peſtife<g ref="char:EOLhyphen"/>rous, and both become fermental, and ſo work upon the blood and ſpirits, defiling them with that inhe<g ref="char:EOLhyphen"/>rent inquination, and ſpreading Miaſm, whereby the vital flame burns dimly, and at length becomes (through the prevalency of the fermental Miaſm) quite extinct.</p>
+            <p>Hence it alſo appears that every Diſeaſe that has any thing of a <hi>ve<g ref="char:EOLhyphen"/>nenum</hi> or <hi>venome</hi> in it, as all manner of malignant Feavers, are alſo fer<g ref="char:EOLhyphen"/>mental, and therefore apt to pro<g ref="char:EOLhyphen"/>pagate themſelves by contagion o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> infection; ſome more, ſome leſs ac<g ref="char:EOLhyphen"/>cording to the degrees of the con<g ref="char:EOLhyphen"/>ceived virulency.</p>
+            <p>And as the noble <hi>Helmont</hi> ſaith (whom I confeſs to have given the greateſt light to theſe conceptions) that every Diſeaſe, as other natural Beeings, are conſtituted of an effi<g ref="char:EOLhyphen"/>cient and a material cauſe, which
+<pb n="19" facs="tcp:37263:13"/>two make up the complexion and eſ<g ref="char:EOLhyphen"/>ſence of a Diſeaſe as well as of other poſitive Beeings: for every Diſeaſe (ſaving ſome caſuall obſtructions which may alſo fore-run other more complex Diſeaſes) has a root or beginning either in the digeſtions, liquid juyces of the body (as blood and other nutritive humors) ſpirits or ſolid parts, and after that a growth or ſpreading into branches or ſymptoms which carry along with them the Idea of the efficient and procatarctick or irritating cauſe which was forg'd in the <hi>Minera morbi;</hi> ſo that the ſymptoms are proportionate to the efficient, and bears the badges thereof as recei<g ref="char:EOLhyphen"/>ving its ſignature therefrom: even as the fruit of a tree is anſwerable to the Idea lodging in the root, a Pear-tree bears the Idea of the whole both in the root and in every Scion, and the fruit thereof is Pears anſwerable to ſpecifick diffe<g ref="char:EOLhyphen"/>rence
+<pb n="20" facs="tcp:37263:14"/>of it from other trees and fruit. For the outward natural life of the body, if conſidered as in health and its integrity is as a flou<g ref="char:EOLhyphen"/>riſhing Tree that puts forth, grows florid, and fruitful.</p>
+            <p>Which has all the digeſtions in right frame every one in their or<g ref="char:EOLhyphen"/>der, and all its organs depurated and free from obſtructions and of<g ref="char:EOLhyphen"/>fending <hi>ſordes;</hi> the blood freely circulating with its crimſon hue in its own twiſted Meanders of veins and arteries, the motion of all the parts brisk and lively, and all con<g ref="char:EOLhyphen"/>ſpiring in that one point of co-inci<g ref="char:EOLhyphen"/>dence, the health and flouriſhing of the body.</p>
+            <p>But if the ſeeds of Diſeaſes (as commonly through the evil acceſs in nature they do) become ſown and grown up together with the life, then they break the former harmo<g ref="char:EOLhyphen"/>ny of health and life, and ſhoot forth branches or ſymptoms an<g ref="char:EOLhyphen"/>ſwerable
+<pb n="21" facs="tcp:37263:14"/>to their ſeeds or roots which diſturb the oeconomy of the natural digeſtions, and pervert the order and method of nature, and at length ſubvert the whole frame of the Microcoſmick fabrick; and that much the ſooner if the inſemi<g ref="char:EOLhyphen"/>nated morbid ſeeds prove acute (as in all ſorts of common Feavers;) venomous, fermental, and contagi<g ref="char:EOLhyphen"/>ous, as in ſmall Pox, ſpotted and camp-Feaver, and all other malig<g ref="char:EOLhyphen"/>nant Feavers (the greateſt of which the <hi>Plague:</hi>) theſe preſently put to flight the vital forces, and ſtrangle Nature with her own cords, by baffling the digeſtions and ſtifling the vital powers.</p>
+            <p>As from within the body, ſo likewiſe from without may that unwelcom gueſt take <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nne, which appears by the many ways that contagious Diſeaſe may arreſt the body; as for example, the peſti<g ref="char:EOLhyphen"/>lent odor may lurk in old rags, gar<g ref="char:EOLhyphen"/>ments,
+<pb n="22" facs="tcp:37263:15"/>paper, ſweepings of houſes, ſtone-walls, or any other body whoſe texture renders it capable of retaining thoſe contagious <hi>Effluvi<g ref="char:EOLhyphen"/>a</hi>'s, which rebound either from in<g ref="char:EOLhyphen"/>fected places or perſons, and, for ought I know, even in the body of common Salt it ſelf may the peſti<g ref="char:EOLhyphen"/>lent odor reſide, becauſe that Salt in its coagulation acquires an im<g ref="char:EOLhyphen"/>pure <hi>halicuous ſordes,</hi> whereby it exaſperates the Scurvy, and may be retentive of a malignant <hi>fracedo</hi> or contagious <hi>hogoo.</hi>
+            </p>
+            <p>Thoſe bodies which will not ad<g ref="char:EOLhyphen"/>mit of the peſtilent odor, amongſt Metals Gold (though it may lurk in the <hi>ſordes</hi> that caſually may ad<g ref="char:EOLhyphen"/>here to Gold) and, it may be, po<g ref="char:EOLhyphen"/>liſh'd Silver; amongſt Minerals poſ<g ref="char:EOLhyphen"/>ſibly Mineral Cinnaber ſulphur, and that alſo all Pearls, precious Stones, and Amber, which three laſt beſides the politeneſs of their external ſur<g ref="char:EOLhyphen"/>face (which will not eaſily, no
+<pb n="23" facs="tcp:37263:15"/>more will other poliſh'd bodies ad<g ref="char:EOLhyphen"/>mit of that venomous vapor) their intrinſick ſpecifick vertues may be a defence to them againſt that viru<g ref="char:EOLhyphen"/>lent odor, whoſe vertues alſo may probably make them become tute<g ref="char:EOLhyphen"/>lary to thoſe who uſe them; as, for inſtance, a piece of red Amber which a <hi>Spaniſh</hi> Chirurgion (as <hi>Helmont</hi> relates) uſed as his only <hi>Zenexton</hi> or preſervative for three years together being Maſter of the Peſt-houſe, which he us'd to rub up<g ref="char:EOLhyphen"/>on the ſeven principal and Planeta<g ref="char:EOLhyphen"/>ry Pulſes, <hi>viz.</hi> upon both temples, wriſts, ancles, and left breſt, where<g ref="char:EOLhyphen"/>with he was preſerved, as <hi>Helmont</hi> obſerves, though the reſt of his aſ<g ref="char:EOLhyphen"/>ſiſtants taken away by the <hi>Plague.</hi>
+            </p>
+            <p>Now as the <hi>Plague</hi> is (as by what is declared) a virulent and contagious Ferment conceived both from a peſtilent Miaſm ariſing from within or from without the body, ſo it ſeizeth upon the vital
+<pb n="24" facs="tcp:37263:16"/>Archeus or ſpirit of life with a kind of fear and terror. For a noxious Ferment cannot work nor ſhew its propagating ſymptoms upon a ca<g ref="char:EOLhyphen"/>daverous body, inaſmuch as a dead body cannot be infected nor can be ſtung with any Viper or Ser<g ref="char:EOLhyphen"/>pent, becauſe it wants a vital prin<g ref="char:EOLhyphen"/>ciple (which we call an Archeus) for the venom or infection to work upon; ſo a potential or actual Cau<g ref="char:EOLhyphen"/>tery, the laſt whereof may ſtigma<g ref="char:EOLhyphen"/>tize and burn a dead body, but nei<g ref="char:EOLhyphen"/>ther of them is able to raiſe a bli<g ref="char:EOLhyphen"/>ſter, ſwelling, or other vital ſymp<g ref="char:EOLhyphen"/>tom, and that becauſe all bliſters, ſwellings, puſtul's, inflammations, pains, or other ſymptoms which a<g ref="char:EOLhyphen"/>riſe from infection or from biting of venomous beaſts are vital pro<g ref="char:EOLhyphen"/>ducts, whoſe ſpring is immediatly from the very fountain of life, the Archeus it ſelf, which diſguſting thoſe virulent impreſſions, and ho<g ref="char:EOLhyphen"/>ſtile exotick Ferments, as alſo all
+<pb n="25" facs="tcp:37263:16"/>outward caſual perplexing accidents of bruiſes, bites, wounds, burn<g ref="char:EOLhyphen"/>ings, ſcaldings, diſlocations, <hi>&amp;c.</hi> doth ſhew its own vital ſtrength in oppoſing the injury done to it by thoſe vital ſymptoms of ſwellings, fierineſs, frequent pulſes, and pro<g ref="char:EOLhyphen"/>truſion of the adjacent <hi>latex</hi> to the injured part, as buckets to allay the ſcalefire.</p>
+            <p>The <hi>Archeus</hi> therefore is that in us which firſt feels and perceives the peſtilent <hi>ens,</hi> and becomes in<g ref="char:EOLhyphen"/>fected therewith, ſhaping an I<g ref="char:EOLhyphen"/>dea of fear and terror upon the moſt degenerate excrement of the body, which is (as <hi>Helmont</hi> ſaith) the Tartar of the blood, which ſpeedily contracts a peſtilent <hi>frace<g ref="char:EOLhyphen"/>do,</hi> and becomes the ſeminary of this moſt-what mortal Enemy, by putting on the form of a Cadaver or dead body, whence the Archeus becomes more powerfully invigo<g ref="char:EOLhyphen"/>rated in its own primitive frightful
+<pb n="26" facs="tcp:37263:17"/>Idea, which alſo gives entrance for the ſeminal peſtilent character to lord it over all the digeſtions, by putting a ſtop thereto, and cauſing an inward putrefaction to over<g ref="char:EOLhyphen"/>ſpread the whole body; whence mortal ſymptoms and at length death it ſelf enſue.</p>
+            <p>Now the <hi>Plague</hi> ſurprizeth the Archeus with an Idea of fear after a twofold manner, <hi>viz.</hi> both by an external fear, as I may call it, which comes from the hearing of ſuch a mortal, unfrequent, tyrannous, in<g ref="char:EOLhyphen"/>fectious Diſeaſe ſtirring abroad, whence oftentimes a preſent horror ſhakes a man at the unexpectedneſs and uncothneſs of ſuch news, and thoſe who are moſt ſtartled with the novelty thereof, are the ſooneſt apprehended thereby; for Idea's of fear and terror are not meer empty nothings, nor yet meer <hi>entia ra<g ref="char:EOLhyphen"/>tionis,</hi> nor are idle, but become more active by induing forms, and aſſu<g ref="char:EOLhyphen"/>ming
+<pb n="27" facs="tcp:37263:17"/>corporiety in the putrid ex<g ref="char:EOLhyphen"/>crements of the body, more readily I ſay, and more actually in ſome perſons then others.</p>
+            <p>For we ſee there are ſome con<g ref="char:EOLhyphen"/>ſtitutions and tempers ſo far diffe<g ref="char:EOLhyphen"/>rent from others, that though they may have Idea's of ſorrow, heavi<g ref="char:EOLhyphen"/>neſs, melancholy by external croſ<g ref="char:EOLhyphen"/>ſes, and thwarting providences, yet thoſe Idea's ſeize not upon the bo<g ref="char:EOLhyphen"/>dy, ſo as to put an anxiouſneſs and reſtleſneſs upon the ſpirits, nor to become a Remora to the digeſti<g ref="char:EOLhyphen"/>ons, and induce a <hi>tabes</hi> from a fret<g ref="char:EOLhyphen"/>ting nature, but are laid aſide and they are cheerful even in the midſt of otherwiſe grieving Idea's.</p>
+            <p>Whereas on the other hand, ſome are of ſuch a fearful nature, that I<g ref="char:EOLhyphen"/>dea's are not only begot in their i<g ref="char:EOLhyphen"/>maginative part, as well from pri<g ref="char:EOLhyphen"/>vative as poſitive objects; but alſo theſe Idea's hew forth to themſelves ſhapes and aſſume corporiety, ſo
+<pb n="28" facs="tcp:37263:18"/>as to become real morbid Entities, to the prejudice of health, nay, ha<g ref="char:EOLhyphen"/>zard of the life it ſelf; hence wa<g ref="char:EOLhyphen"/>ſtings, and conſumptions from ſo<g ref="char:EOLhyphen"/>licitous, anxious, &amp; careful thoughts or Idea's, which often accelerate old age, and make a man become gray and withered, before he be well arriv'd to the prime of his years. But I have not time to ex<g ref="char:EOLhyphen"/>ſpatiate.</p>
+            <p>And as from an external fear, ſo alſo from an internal fear, the <hi>Ar<g ref="char:EOLhyphen"/>cheus</hi> may be ſurprized with a ve<g ref="char:EOLhyphen"/>nomous and peſtilent <hi>ens;</hi> as when from ſome infectious air, conta<g ref="char:EOLhyphen"/>minated with unwholeſom ſmells, the <hi>Archeus</hi> ſecretly and inwardly (and, that it may be, without the expectation or ſuppoſition of the party) is ſeized upon with a ſtrange kind of fear and terror, which it keeps lurking within its own bo<g ref="char:EOLhyphen"/>ſom, and ſo hatcheth its own Cock<g ref="char:EOLhyphen"/>atrice-eggs, which at length be<g ref="char:EOLhyphen"/>come
+<pb n="29" facs="tcp:37263:18"/>a lethal poyſon to it ſelf: With this Panick fear, the <hi>Archeus</hi> of the wiſeſt and the ſobereſt of men may be inſenſibly taken, ſo as not only to ſhape and foſter a Morbid Idea, but alſo, that that ſickly Idea ſhould incorporate it ſelf into an excrementitious matter, and be<g ref="char:EOLhyphen"/>come at length determin'd in a com<g ref="char:EOLhyphen"/>mon and more inferior Diſeaſe, or elſe in a virulent Ferment, which works retrogradely upon the whole frame of Nature, and haſtens the terror of terrors, Death.</p>
+            <p>Of the like nature with this fear of the <hi>Archeus,</hi> which begets the Peſt in the vital part, is alſo thoſe fears (though ſeizing after ano<g ref="char:EOLhyphen"/>ther manner) which ſurprize the <hi>Archeus</hi> of thoſe who have a ſecret antipathy againſt any particular thing, who can give no rational ac<g ref="char:EOLhyphen"/>count why they have ſuch a fear or horror upon them at the preſence of ſuch an object, nor why they
+<pb n="30" facs="tcp:37263:19"/>diſguſt ſuch or ſuch a thing with an utter deteſtation; as for inſtance, that ſome will ſweat, tremble, and fear at the ſight of Cheeſe; another will have dread at the ſight of a Cat; a third will have an Idea of horror at the ſight of a Toad; ano<g ref="char:EOLhyphen"/>ther will ſweat, tremble, and be in a kind of Agony at the pre<g ref="char:EOLhyphen"/>ſence of a Paper put under the bot<g ref="char:EOLhyphen"/>tom of a Pye, which though not ſeen by the eye, yet the <hi>Archeus</hi> is ſuch an acute diſcerner of things, that can by an intuitive kind of in<g ref="char:EOLhyphen"/>ſpection, preſently diſcover what is friendly, but chiefly what is inimici<g ref="char:EOLhyphen"/>cious to it; not that the object is re<g ref="char:EOLhyphen"/>ally ſo as it is apprehended by the <hi>Archeus,</hi> for then it would be ſo to all, which jet, we ſee daily expe<g ref="char:EOLhyphen"/>rience ſaith to the contrary.</p>
+            <p>Therefore theſe diſguſts are cer<g ref="char:EOLhyphen"/>tain irregular Idea's wherewith the <hi>Archeus</hi> has been either originally from the conception tainted, which
+<pb n="31" facs="tcp:37263:19"/>Idea's become ſo familiar, as that they co-incide with the very eſſen<g ref="char:EOLhyphen"/>tial and conſtitutive principles of the <hi>Archeus,</hi> and ſo are naturaliz'd therewith, as that they ſeem to hang both upon one root, or baſis; or elſe in time through cuſtoms or ca<g ref="char:EOLhyphen"/>ſuall accidents, they become im<g ref="char:EOLhyphen"/>planted into the very initials of the <hi>Archeus,</hi> and ſo become natural: As for inſtance: when a man takes a diſguſt at a thing, he has either eaten too much of, or that has had ſome nauſeating quality therein, where<g ref="char:EOLhyphen"/>at the <hi>Archeus</hi> has been offended, and rouz'd up the natural forces in the ſtomach and inteſtines, to expel it, either upwards or downwards, then preſently it ſhapes an Idea of hatred and utter deteſtation there<g ref="char:EOLhyphen"/>againſt, inſomuch that though it was very well pleaſed therewith be<g ref="char:EOLhyphen"/>fore the Surfet, yet after it utterly hates and rejects; yea, and though the ſame ſhould under a diſguiſe be
+<pb n="32" facs="tcp:37263:20"/>ſo palliated as to be taken into the ſtomach, yet then the <hi>Archeus</hi> ſee<g ref="char:EOLhyphen"/>ing, and, as it were, ſenſibly feeling it, ſets it ſelf ſtrenuouſly againſt it, by conceiving of Antipathetical or diſcording Idea's, whence to execute its commands (at whoſe beck all the powers, faculties, and humors of the whole body are) it rallies up its forces, makes its on-ſet upon the deceitful enemy that took him unawares, and is not quiet till he have thruſt him out by head and ſhoulders.</p>
+            <p>If then theſe ordinary and fre<g ref="char:EOLhyphen"/>quent Idea's work thus powerfully upon the <hi>Archeus</hi> of perſons, even in the common tranſactions be<g ref="char:EOLhyphen"/>tween meats with other objects, and the ſtomach with its legiſlator the <hi>Archeus,</hi> ſo as to cauſe ſometimes ſtrange and antick geſtures, as in the biting of a <hi>Tarantula,</hi> that Spi<g ref="char:EOLhyphen"/>der of <hi>Apulia,</hi> whoſe ſtrange and heteroclite venenal Idea doth take
+<pb n="33" facs="tcp:37263:20"/>ſuch impreſſion upon the <hi>Archeus</hi> of the bitten or infected perſon, as that <hi>(ſub jugum trahitur Arche<g ref="char:EOLhyphen"/>us)</hi> it brings the <hi>Archeus</hi> under its hatches, ſigns it with its own chara<g ref="char:EOLhyphen"/>cter, which is ſo fermental, as that it preſently inſinuates into the whole <hi>Archeus,</hi> and ſo conſequently into all its clyents, that it reſts not, put<g ref="char:EOLhyphen"/>ting the body into antick poſtures of dancing, till by the ſuitableneſs of ſome peculiar tone of muſick which pleaſeth the <hi>Tarantula</hi> (that impreſs'd the Ideal-venom) he falls into ſuch a fit of dancing, as that together with the motion of the bo<g ref="char:EOLhyphen"/>dy, the virulent matter which it has got in the body, is wrought out by ſweat and transſpiration, and the poyſonous antick-Idea becomes worn out by the acceſs of the other pleaſant Idea, that the <hi>Archeus</hi> is brought into from the conſonancy and harmony of the Nuſick which at length worms out the other.</p>
+            <pb n="34" facs="tcp:37263:21"/>
+            <p>So likewiſe that ſtrange fermen<g ref="char:EOLhyphen"/>tal venomous Idea, that is commu<g ref="char:EOLhyphen"/>nicated to a man from the biting of a mad Dog, which cauſeth a <hi>hydro<g ref="char:EOLhyphen"/>phobia,</hi> which is very plain, that what is done, more then what would have been from the bites of another Dog, is purely Idea; for we ſee that a common wound from a Dog or other beaſt (unleſs it ſelf be venenous) has no ſuch ſymptoms as accompany the wound of a mad Dog, or other venomous creature, but is only a ſolitary wound, cura<g ref="char:EOLhyphen"/>ble by ordinary Balſoms; but from the venom of the biting of a mad Dog comes a kind of madling I<g ref="char:EOLhyphen"/>dea, which has its dimenſions and lineaments almoſt exactly from the madling Idea of the Dog; ſo that it is plainly Ideal, and alſo Fermen<g ref="char:EOLhyphen"/>tal both in the mad Dog, as alſo in the bitten Perſon; inſomuch that the madling Idea of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>og by the <hi>medium</hi> of the bite, inſinuates its
+<pb n="35" facs="tcp:37263:21"/>ſelf through the Mummial Ferment into the <hi>Archeus,</hi> and becomes ſo prevalent, as that it ſhapes its own <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dea therein, and works the imagi<g ref="char:EOLhyphen"/>native part into a likeneſs with its ſelf: whence moſt-what the ſame <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oving madling ſymptoms ariſe in the one, as in the other. And alſo we ſee that in the giving of <hi>Opium</hi> crudely prepared, what ſtrange I<g ref="char:EOLhyphen"/>dea's, phantaſms, wheeling mo<g ref="char:EOLhyphen"/>tions are repreſented, much like thoſe Idea's &amp; labyrinthal thoughts which are impreſs'd upon thoſe who are ſometimes in the begin<g ref="char:EOLhyphen"/>nings of Feavers, Agues, <hi>&amp;c.</hi> with<g ref="char:EOLhyphen"/>out any uſing of <hi>Opium,</hi> as if the <hi>Archeus</hi> in ſuch Diſeaſes had ſhap'd <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> its ſelf ſuch a ſtupifying and floa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing wheeling Idea, as is in <hi>Opium</hi> it ſelf; which appears plainly to me, as if the <hi>Archeus</hi> had a power of forming in it moſt kind of Idea's that are wrapt up in the boſom of Plants, and Animals, either from its
+<pb n="36" facs="tcp:37263:22"/>own exorbitant power, ſhaping them in its own Forge, by its own <hi>Vulcan;</hi> or by propagation from the Plants and Animals themſelves <hi>Opium</hi> given well prepared, we ſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> how it allays the fretting, fumings boiling, and painful Idea's in Fea<g ref="char:EOLhyphen"/>vers, and other Diſeaſes, by the re<g ref="char:EOLhyphen"/>freſhing Idea whereof, the (other<g ref="char:EOLhyphen"/>wiſe diſturb'd, fretful, and incens'd) <hi>Archeus</hi> becomes quieted, lays aſide its fury, and is as a meek Lamb plea<g ref="char:EOLhyphen"/>ſantly repos'd by the charming I<g ref="char:EOLhyphen"/>dea of that well-prepared vegeta<g ref="char:EOLhyphen"/>ble juyce.</p>
+            <p>All which inſtances (and many more I might urge if I had time) do clearly evince the truth of what I aſſert, <hi>viz.</hi> that there is an <hi>Archeus</hi> which ſits at the ſtern of all the di<g ref="char:EOLhyphen"/>geſtions, in which alſo are repre<g ref="char:EOLhyphen"/>ſented various kinds of Idea's, or ſhapings in the imaginative part, which being rouz'd up by an exe<g ref="char:EOLhyphen"/>cutive power, or Archeal <hi>fiat,</hi> be<g ref="char:EOLhyphen"/>come
+<pb n="37" facs="tcp:37263:22"/>ſuch real Entities, as are able <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ough both to diſturb the order <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd frame of Nature, and to be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>etermin'd in Diſeaſes: And fur<g ref="char:EOLhyphen"/>ther, that of thoſe Idea's ſome are <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rulent, others not, and amongſt <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>yſons, thoſe who conſiſt in a vi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ent Idea, are the moſt noxious <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> humane life; ſuch are all malig<g ref="char:EOLhyphen"/>nant and peſtilent odors, which <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rce the <hi>Archeus</hi> to fabricate an <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ea of fear; which Idea is invigo<g ref="char:EOLhyphen"/>rated, by acuating it ſelf upon the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>acedinous odor of the Tartar of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e blood, which is an excrement <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f the fourth digeſtion, and there<g ref="char:EOLhyphen"/>fore the moſt ſuſceptible of viru<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nt impreſſions.</p>
+            <p>This Idea therefore of Fear, which <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>prizeth the <hi>Archeus</hi> of ſome ti<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>erous and low-ſpirited people, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oner then others, when it indues <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orporiety from a virulent Conta<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion, it begins to boyl in the blood, which is the <hi>receptaculum vitae,</hi> the
+<pb n="38" facs="tcp:37263:23"/>very ſeat of life, and red-ſea where<g ref="char:EOLhyphen"/>in our <hi>Archeus</hi> navigates, tacks to and fro for the ſafeguard of the Mi<g ref="char:EOLhyphen"/>crocoſm: when it eſpieth any ene<g ref="char:EOLhyphen"/>mies, eſpecially of a poyſonful pro<g ref="char:EOLhyphen"/>perty, it either lowreth its top-ſails in obedience thereto, or elſe it ſets upon it with all its might and force; in which combat the one maſters the other.</p>
+            <p>The blood is the Scene, in which both the vital <hi>Archeus,</hi> and morbid Entities act their parts <hi>viciſſim,</hi> and if any corrupting Acidity enters its Confines, it becomes preſently ho<g ref="char:EOLhyphen"/>ſtile thereto, either coagulating the ſame, whereby the <hi>Viſcera</hi> become obſtructed, and diſeaſes thence ari<g ref="char:EOLhyphen"/>ſing; or putrefieth the ſame, cau<g ref="char:EOLhyphen"/>ſing it to contract a fracedinous o<g ref="char:EOLhyphen"/>dor, whence it affords a putredi<g ref="char:EOLhyphen"/>nous <hi>Aporrhoea,</hi> that gives the <hi>Ma<g ref="char:EOLhyphen"/>teria ſubſtracta</hi> for a venenous I<g ref="char:EOLhyphen"/>dea of fear to work upon, whence alſo from the one, acting upon the
+<pb n="39" facs="tcp:37263:23"/>other, are begot all malignant Diſ<g ref="char:EOLhyphen"/>eaſes, and eſpecially the Diſeaſe I <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m now treating of, <hi>viz.</hi> the <hi>Peſt.</hi>
+            </p>
+            <p>In which Diſeaſe, the putrefying <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erment is ſo great, that if any of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he <hi>Archeus</hi> his forts be ſafe, I mean, if any part of the blood be free from putrefaction, the <hi>Archeus</hi> flieth thither, as to his ſafeſt Port, and there ſculks awhile in ambuſh, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>till the malignity either over<g ref="char:EOLhyphen"/>ſpreads the whole blood and <hi>Ar<g ref="char:EOLhyphen"/>cheus,</hi> or elſe that the <hi>Archeus</hi> gains by retreating the more for<g ref="char:EOLhyphen"/>ces, whereby it makes more con<g ref="char:EOLhyphen"/>querable aſſaults upon the vital e<g ref="char:EOLhyphen"/>nemy.</p>
+            <p>Hence it is, that if the blood be <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t forth by opening a Vein, it <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>roves mortal, both in this and all other malignant Diſeaſes, becauſe the moſt pure and untainted part of the blood, and where the <hi>Arche<g ref="char:EOLhyphen"/>us</hi> chiefly lodgeth (which is the Pillar of life) is thereby exhauſted,
+<pb n="40" facs="tcp:37263:24"/>and the putrefied part only leſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which is become a meer <hi>Cadave<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and haſteneth all the reſt of the parts into a likeneſs with its ſel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whence death inevitably. Where fore in all ſorts of Feavers, the Phyſician ſhould ſeriouſly conſider and weigh, whether there may no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be ſomewhat of malignity in the Diſeaſe, whoſe <hi>Diagnoſticks</hi> h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> propounds to himſelf, as the rule <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> proceeds by in the <hi>Therapeutick</hi> o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Curative</hi> part, leſt he order a <hi>Phle<g ref="char:EOLhyphen"/>botomy</hi> where there is a degree o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> malignity and virulency, that <hi>an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>guis ſub herbis</hi> in all infectiou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Feavers.</p>
+            <p>Therefore not only in the <hi>Plagu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> but alſo in the ſmall Pox, camp-Fea<g ref="char:EOLhyphen"/>vers, ſpotted Feavers, putrid and other malignant Feavers, the let<g ref="char:EOLhyphen"/>ting of blood is moſt dangerous, if not preſently mortal; for it takes away not only the weapon Nature has to contend with, but alſo her
+<pb n="41" facs="tcp:37263:24"/>very Champion, the <hi>Archeus,</hi> and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aves her deſtitute of help to ſtrug<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e with a potent enemy; there<g ref="char:EOLhyphen"/>fore ſhe muſt needs flag and fall be<g ref="char:EOLhyphen"/>fore his fury.</p>
+            <p>And indeed to tell you the ſumm <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f my thoughts, I muſt needs ſay, that bloodding is not only dange<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>us and mortal in malignant Fea<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ers, but unneceſſary in all other <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eavers; though, if any, the Pleu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſie may ſeem to plead a neceſſity, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut to whom? Only to the <hi>Gale<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſts,</hi> who know no better remedy through their poverty in Chymical <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reparations of noble Medicines: <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ea, it is impertinent in moſt Chro<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ick Diſeaſes, and alſo dangerous, where the Ferments or Digeſtions <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f the body are weak, the blood im<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>overiſhed for want of due circula<g ref="char:EOLhyphen"/>tion (reſtagnating in the parts) and a through-want of illumina<g ref="char:EOLhyphen"/>tion from the <hi>aura vitalis,</hi> or vital <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>laſt. And laſtly, where all the
+<pb n="42" facs="tcp:37263:25"/>powers and faculties are at the d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>clining hand, as in all lingering waſting, and conſumptive Diſeaſe where to let blood is to pump Na<g ref="char:EOLhyphen"/>ture of her very beſt Treaſury.</p>
+            <p>I muſt confeſs I have found <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> experience, that ſome perſons have found ſenſible good in ſome diſeaſe giving them a temporary eaſe, but if their diſeaſe be Feavers, they li<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ger long before they come to the<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> full ſtrength, eſpecially if blood w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> drawn, when Nature was brought to a low ebb, for then it cannot regai<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtrength nothing neer ſo ſoon, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> when without blooding, by a pow<g ref="char:EOLhyphen"/>erful Medicine, Nature is helpe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and returns to its ſtrength. Alſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I have found, that if Nature b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtrong, and ſome <hi>exotick</hi> pains, o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſome other ſlight Diſeaſe, that ariſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from the too great repletion of the Veins, as ſometimes <hi>Megrims,</hi> and <hi>Vertigo's,</hi> pains in the head, <hi>&amp;c.</hi> w<hi rend="sup">ch</hi> ariſe from the intumeſcence of
+<pb n="43" facs="tcp:37263:25"/>the bloody veſſels of thoſe parts, or elſe from a pungent acidity either in the blood, <hi>latex,</hi> or <hi>aqua lymphatica,</hi> which may prick the Nervous and Membranous part of the Brain, I mean, the <hi>Pia-mater,</hi> where in defect of other Medicines (which may correct that ſpurious acidity, and tranſpire the ſuperfluous <hi>lat ex</hi> which ſwell'd the veſſels:) blood<g ref="char:EOLhyphen"/>ing may be a little indulg'd, but not with too prodigal a hand. Al<g ref="char:EOLhyphen"/>ſo thoſe whoſe ſanguinious ſpring<g ref="char:EOLhyphen"/>ſource is of a vegetating and ſtrong<g ref="char:EOLhyphen"/>ly encreaſing property, may in ſome caſes have a little indulgence herein, though with moderation.</p>
+            <p>For if the ſpring of the fourth Digeſtion which is the Port to ſan<g ref="char:EOLhyphen"/>guification be veget, the water, I mean, blood, may be exhauſted bet<g ref="char:EOLhyphen"/>ter and with leſs loſs then where this ſpring is faint, therefore thoſe who according to the common Di<g ref="char:EOLhyphen"/>alect ſay, their Liver is ſtrong, and
+<pb n="44" facs="tcp:37263:26"/>begets great ſtore of blood (ta<g ref="char:EOLhyphen"/>king for granted the common noti<g ref="char:EOLhyphen"/>on of ſanguification in the Liver) may a great deal the better bear the loſs of blood by Phleboto<g ref="char:EOLhyphen"/>my, and perhaps too, may finde ſome preſent REMEDY for their MALADY, eſpecially if they have been accuſtomed to be blooded in the like caſes, becauſe cuſtom habituats the <hi>Archeus</hi> to an expectation of the ſame again, and repeated actions become a ſe<g ref="char:EOLhyphen"/>cond nature. But to return; but before I leave this ſubject, let me add one thing, and that is this, That by blooding, Nature oftentimes be<g ref="char:EOLhyphen"/>comes ſo languid, that if a Diſeaſe follow after, ſhe is not ſo able as with its wonted ſtrength to give a ſtrong repulſe to the invading ene<g ref="char:EOLhyphen"/>my, which watches the ſlips and de<g ref="char:EOLhyphen"/>fects of Nature to trip her up at her weakeſt point, for hereby her weapon the blood, which is the ſeat
+<pb n="45" facs="tcp:37263:26"/>of life, is ſurreptitiouſly taken from her.</p>
+            <p>Now to the point in hand, The blood boyling in the veſſels from a virulent <hi>ens</hi> impreſſed therein, fer<g ref="char:EOLhyphen"/>ments, and like an evil leaven (from which, as alſo from the working of Eiquor, hath the name <hi>Ferment</hi> had its original) works till it have moulded all the principal parts and humors of the body into its own likeneſs, in manner of a gangrena<g ref="char:EOLhyphen"/>ted Ulcer, which feeds upon all near it, and by its venomous Ferments, turns all, as far as it goes, into its own likeneſs of mortified fleſh: For the blood has in this Diſeaſe got ſuch a poyſonful Ferment, or leaven in it, as that it ceaſeth not in<g ref="char:EOLhyphen"/>wardly to putrefie, till it either mor<g ref="char:EOLhyphen"/>tifies the whole, or a ſtop be put to its venomous progreſs.</p>
+            <p>In this inward putrefaction of the blood, the outward parts are not long free from the Contagion,
+<pb n="46" facs="tcp:37263:27"/>but breaks forth in one place or o<g ref="char:EOLhyphen"/>ther, or all over, in its own chara<g ref="char:EOLhyphen"/>cters, <hi>viz.</hi> Spots, Bubo's, ſwellings, Sores, intolerable pains, <hi>&amp;c.</hi> which are outward badges of the inward mortification; for no Ferment can reſt till it either have a ſtop put thereto from ſome other more pow<g ref="char:EOLhyphen"/>erful ſupervening Ferment, or have over-run the whole, ſo that the outward is ſigned by the inward in reſpect of that concatenation of in<g ref="char:EOLhyphen"/>ward and outward parts.</p>
+            <p>Now if this peſtilent Ferment pu<g ref="char:EOLhyphen"/>trefying the blood, and in its ma<g ref="char:EOLhyphen"/>king its iſſue forth, contracts and centers its ſelf in one place, if within twenty four hours after the Con<g ref="char:EOLhyphen"/>tagion has not univerſally over<g ref="char:EOLhyphen"/>ſpread the whole, whence death in<g ref="char:EOLhyphen"/>evitably; then it is an argument that a ſtop is put to its ſpreading in<g ref="char:EOLhyphen"/>ward Gangrene, and the outward iſſue is a <hi>Magnet</hi> which attracts, or at leaſt, by which other proper
+<pb n="47" facs="tcp:37263:27"/>
+               <hi>Magnets</hi> may attract the virulency and poyſon from the whole.</p>
+            <p>But if the contagious Ferment acts furiouſly within, and that there is an obſtipation or locking up of the Pores, (thoſe little Portals through which ſometimes the infe<g ref="char:EOLhyphen"/>ctious odor is let in, as alſo ſome<g ref="char:EOLhyphen"/>times lets forth the ſame poyſonful <hi>Gaſi</hi>) then it commonly kills, be<g ref="char:EOLhyphen"/>fore any greatly manifeſt ſymptoms of the outward parts break forth, till after an expiring of the vital ſpi<g ref="char:EOLhyphen"/>rit, the virulent Ferment goes on to over-ſpread the vegetative life in the laſt digeſtion, which it doth af<g ref="char:EOLhyphen"/>ter death; and ſo, I ſay, the laſt digeſtion, <hi>viz.</hi> of the ſolid parts, be<g ref="char:EOLhyphen"/>comes alſo infected and breaks forth, even after death, into ſpots, puſtul's, and ſwellings: for in theſe malignant Diſeaſes where the ve<g ref="char:EOLhyphen"/>nome firſt ſeizeth upon the vital parts or center, and ſo ſpreads to the outward parts or circumfe<g ref="char:EOLhyphen"/>rence,
+<pb n="48" facs="tcp:37263:28"/>the vegetative or growing life or property which lodgeth in the <hi>ultimat</hi> digeſtion, <hi>viz.</hi> of the ſolid parts, is the laſt that's wrought upon and ſlain, whoſe badges do betray the Serpent that lurkt in the blood.</p>
+            <p>The intolerable pains that hap<g ref="char:EOLhyphen"/>pen in theſe outward ſwellings, come from the anxiety of the vital and animal ſpirits, I mean, the <hi>Ar<g ref="char:EOLhyphen"/>cheus</hi> (for thoſe diviſions of ſpirits are but different vibrations of one and the ſame <hi>Archeus</hi>) which is ſadly oppreſt with the cloſe dog<g ref="char:EOLhyphen"/>ging of this virulent Ferment that has got footing in the Cottage of life: The Virulency in reſpect of its great corrupting property, has an acute acidity annexed thereto, which pricking the nervous and membra<g ref="char:EOLhyphen"/>nous parts of the body, eſpecially of the part where the Contagion works to a head in the ſwelled place; ſomewhat like to the prick<g ref="char:EOLhyphen"/>ing
+<pb n="49" facs="tcp:37263:28"/>pains of the Pleuriſie (though more eminent in degree) which pro<g ref="char:EOLhyphen"/>ceeds from a punging acidity in the blood, whereby it becomes (Na<g ref="char:EOLhyphen"/>ture abhorring its hoſtile enemy, &amp; therefore where it hath ſtrength thruſts it forth) hoſtile to the <hi>Ar<g ref="char:EOLhyphen"/>cheus,</hi> and is therefore extravaſated out of the azugal Vein into the <hi>Plura,</hi> and there by reaſon of its acidity (which yet has not arriv'd to any virulency) which is hoſtile to the Veins and Membranous parts, lacerates, and, as it were, by pricking, tears the Membrain of the <hi>Plura,</hi> which is a moſt ſenſible part, thence comes thoſe ſmart pains and ſtitches frequent in that kind of Feaver.</p>
+            <p>But in the <hi>Plague</hi> the corrupt<g ref="char:EOLhyphen"/>ing acidity differs from others, in that it has a contagious Ferment adjoyning to it, and what the aci<g ref="char:EOLhyphen"/>dity, cauſing pains and boylings in
+<pb n="50" facs="tcp:37263:29"/>the blood, and what the virulency cauſing a gangrenating property through the whole; this Diſeaſe becomes determin'd into the moſt deadly enemy to the mortal life: And from the boyling of this ve<g ref="char:EOLhyphen"/>nomous leaven in the blood pro<g ref="char:EOLhyphen"/>ceeds thoſe direful ſymptoms which accompany this Diſeaſe, as an in<g ref="char:EOLhyphen"/>quenchable thirſt, which would drink all before it, becauſe of the fermental fire that centers in the boſom of the blood, which boyls up continually in an anxious dark fire<g ref="char:EOLhyphen"/>ſource, darkens the vital beams which ſhould be irradiated through the whole, and makes the lamp of life burn dimly.</p>
+            <p>For this outward temporary life of ours, which at the beſt ſince the fall is caduce, is truly and really a vital lamp or a luminous <hi>ens,</hi> of a middle nature, between the immor<g ref="char:EOLhyphen"/>tal Soul, and the Elemental Body, and is (as the acute <hi>Helmont</hi> well
+<pb n="51" facs="tcp:37263:29"/>calls it) <hi>pediſſequa,</hi> or <hi>receptacu<g ref="char:EOLhyphen"/>lum animae immortalis,</hi> not only the Hand-maid, but Cottage of the immortal Soul; or (if I might call it) the loweſt Sphere to which the Soul is baniſh'd, ſince it fell from the upper Sphere of Paradiſe, where now its converſant amongſt thoſe <hi>Spinae &amp; tribuli,</hi> thoſe Briers and Thorns of Morbid Entities, or Diſeaſes and paſſions which diſturb the otherwiſe pure and ſerene oeco<g ref="char:EOLhyphen"/>nomy of the generous Soul, as it is born in the divine light.</p>
+            <p>The lives of all Creatures (as <hi>Hel<g ref="char:EOLhyphen"/>mont</hi> ſaith) are <hi>entia luminoſa &amp; Dei dona,</hi> Beeings of light, and gifts of God, implanted in every Crea<g ref="char:EOLhyphen"/>ture for the governing the ſtructure of the body, with both the ſigna<g ref="char:EOLhyphen"/>tures of the life and inward ſpirit, and alſo the ſtage wherein the <hi>Ma<g ref="char:EOLhyphen"/>gia</hi> thereof produceth its wonders: this ſpark of fire or light which quickens every body, gives life, mo<g ref="char:EOLhyphen"/>tion,
+<pb n="52" facs="tcp:37263:30"/>ſenſe, capability of accepting or eſchewing what is either of a like nature, or what is of a different from its ſelf, and gives all the con<g ref="char:EOLhyphen"/>comitant products of life, is yet but a little in bulk, and yet puts an activity into great bodies, which o<g ref="char:EOLhyphen"/>therwiſe would fall of their own weight, <hi>ruit &amp; ipſa mole.</hi>
+            </p>
+            <p>This is that Plaſtick principle that ſhapes every thing in the Embrio, puts on the watery Element for an outward garment, and appears in moſt delicate forms, ſporting it ſelf (according to the appointment of God in Nature) in great variety, to the wonderment of the great Spectator, Man; who if he be born with eyes, cannot but admire the wiſdom of the great Creator, who has plac'd a vegetative ſpark in e<g ref="char:EOLhyphen"/>very Plant, <hi>Praeſentem<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> refert, quae<g ref="char:EOLhyphen"/>libet herba Deum.</hi> If theſe lights are darkened the Creature falls into diſorder, deficiencies and weakneſ<g ref="char:EOLhyphen"/>ſes,
+<pb n="53" facs="tcp:37263:30"/>if it be extinct, the body falls like a cadaverous bulk.</p>
+            <p>That which I would aim at here<g ref="char:EOLhyphen"/>in, is, That ſeeing the outward fra<g ref="char:EOLhyphen"/>gil life of man conſiſts in a ſpark of light, which is a warming, nouriſh<g ref="char:EOLhyphen"/>ing, and inlightning lamp to the body, is therefore expoſed to all thoſe many dangers which may ha<g ref="char:EOLhyphen"/>zard not only the dim, dull, and ob<g ref="char:EOLhyphen"/>ſcure burning ef the lamp of life, but alſo the extinction of the ſame, amongſt thoſe many puffs and blaſts that hazard the extinguiſhing this vital flame, that malignant blaſt of the <hi>Peſt,</hi> as alſo of other contagious fermental Diſeaſes, doth the ſooneſt ſtifle the ſame, and that becauſe ſuch infective odors are ve<g ref="char:EOLhyphen"/>ry active and nimble, and therefore inſinuate with their venom the more intimately, reaching to the very root of life.</p>
+            <p>Theſe peſtilential Odors or Ho<g ref="char:EOLhyphen"/>goo's ſurprize the vital flame of in<g ref="char:EOLhyphen"/>ſected
+<pb n="54" facs="tcp:37263:31"/>perſons, not much unlike the malignant Mineral Arſenical ſul<g ref="char:EOLhyphen"/>phur which is found in Mines, that firſt darkens a Candle, and at length blows it out, w<hi rend="sup">ch</hi> alſo they in effect do the ſame to the workers in the Mine, by ſometimes ſtifling their vital flame, by the poyſonful Arſe<g ref="char:EOLhyphen"/>nical vapor that comes out from the Caverns of the earth, where there is as well unwholſom, nay, poyſon<g ref="char:EOLhyphen"/>ous breaths as well as healthful.</p>
+            <p>Thus you ſee I have (as ſuccinct<g ref="char:EOLhyphen"/>ly as I could) run through the deſcription of the cauſe, eſſence, manner, and ſymptoms of this de<g ref="char:EOLhyphen"/>vouring Diſeaſe the <hi>Plague,</hi> toge<g ref="char:EOLhyphen"/>ther with ſome tranſient hints of o<g ref="char:EOLhyphen"/>ther malignant Diſeaſes; ſo that <hi>Ex ungue leonem,</hi> from one you may learn to meaſure another, and them all, in their own proportions and dimentions: you may eſpy (i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you obſerve) a ſecret concatena<g ref="char:EOLhyphen"/>tion or cementing together of the
+<pb n="55" facs="tcp:37263:31"/>notions laid down, in order to the through diſcovery of this Monſter, though I confeſs, much ſhorter then I might have done if I had time.</p>
+            <div type="part">
+               <head>The nature of a <hi>Zenexton.</hi>
+               </head>
+               <p>HAving thus determin'd the eſ<g ref="char:EOLhyphen"/>ſence of this Diſeaſe, it's now time to diſcover, if we can, what may poſſibly concur to the aſſi<g ref="char:EOLhyphen"/>ſtance againſt it, as alſo what may conduce probably to its Cure. For the way to ſeek a right Remedy, is firſt, to be throughly ſatisfied of the Nature, Cauſe, and Eſſence of the Diſeaſe, which may make way for a due application of Antidotes and Specificks.</p>
+               <p>That which is therefore incum<g ref="char:EOLhyphen"/>bent upon every one, is, firſt, Every man to look well to his own ways, that he be found doing that which is well-pleaſing to the Lord in all righteouſneſs, to whom the bleſſing
+<pb n="56" facs="tcp:37263:32"/>of health and long days belong <hi>jure divino.</hi>
+               </p>
+               <p n="2">2. Then ſecondly, That as many as may, be of a cheerful, ſerene, and free ſpirit, for a well-grounded cheerfulneſs, that has no guilt lying heavy upon it, <hi>hic murus ahaeneus e<g ref="char:EOLhyphen"/>sto, nil conſcire ſibi, nec impalleſcere culpae:</hi> This is the great Wall of defence, to be conſcious of nothing that is unrighteous; that ſpirit may (if any) be truly cheerful; and nothing doth keep the natual ſpirit in better frame then ſuch a well-founded cheerfulneſs.</p>
+               <p>For this keeps out all foreign and timerous Idea's which moſt<g ref="char:EOLhyphen"/>what haſten the infection in thoſe dull and low-ſpirited people; inaſ<g ref="char:EOLhyphen"/>much as Fear is the in-let unto the many Miſeries and Calamities that the humane life is expos'd to, it makes the Spirits dull and renders them like Wax, ſuſceptable of every contagious impreſſion in the Air;
+<pb n="57" facs="tcp:37263:32"/>whence it is, that a confident Phy<g ref="char:EOLhyphen"/>ſician may almoſt (if not wholly ſometimes) perſwade a timerous ſpirited perſon into a diſeaſe, through a ſlaviſh indulgence to his paſſion of Fear.</p>
+               <p>Whereas a cheerful, confident, and deboneir perſon, like a Cham<g ref="char:EOLhyphen"/>pion conquers thoſe beaſts of fear that lie in the way, and blots out thoſe timerous Idea's, whereby the fruits and effects thereof, <hi>viz.</hi> of being eaſily ſurpriz'd with that which many times is moſt hurtful, are prevented: For cheerfulneſs doth not only hinder the entrance of fears, and of what fears pro<g ref="char:EOLhyphen"/>duce, but alſo blots out thoſe Idea's of too much carefulneſs and anxi<g ref="char:EOLhyphen"/>ouſneſs in worldly affairs, which prove often the very bane of the outward life, producing both trou<g ref="char:EOLhyphen"/>ble, doubtful, and deſpairing thoughts, much to the prejudice of that perſon.</p>
+               <pb n="58" facs="tcp:37263:33"/>
+               <p>And though we ſay, there is no fence againſt fear, yet ſurely a cheerful and pleaſant ſpirit, being in counter-point to that of fear, can<g ref="char:EOLhyphen"/>not but muſt be its <hi>Zenexton</hi> or <hi>An<g ref="char:EOLhyphen"/>tidote,</hi> greatly preſervative againſt that great Malady of Fear, which brings oftentimes direful effects up<g ref="char:EOLhyphen"/>on the ſtage of humane life; but upon the entrance of a cheerful pleaſant ſpirit, that of fear makes its <hi>exit,</hi> and ſo the Scene is altered and a new face put upon things: ſo that I ſhould commend cheerfulneſs as one of the main hinges of Health, keeping out all Exotick Idea's that might diſturb the <hi>Archeus.</hi>
+               </p>
+               <p n="3">3. The next thing in order to a Preſervative, is <hi>Vinum ad hilarita<g ref="char:EOLhyphen"/>tem,</hi> according to <hi>Hippocrates</hi> his advice, <hi>Sed non ad ebrietatem,</hi> To drink Wine moderately, to make the heart merry, as <hi>Solomon</hi> ſaith, which enlivens the Spirits, and puts the Vitals upon action, ſo as to ſtand
+<pb n="59" facs="tcp:37263:33"/>Centinel againſt all other bad im<g ref="char:EOLhyphen"/>preſſions from malignant Contagi<g ref="char:EOLhyphen"/>ons; for this exalts the Spirits to that ſtrein, as that they will not ad<g ref="char:EOLhyphen"/>mit of any ſlaviſh paſſion (which often ſubjugates the whole to its tyranny) but baniſheth all Exotick ſtrange, fears, and other impreſſions, that would (if prevalent) make the life cumberſom to it ſelf.</p>
+               <p>The Spirits of Wine have diffe<g ref="char:EOLhyphen"/>rent and ſomething odd effects up<g ref="char:EOLhyphen"/>on the <hi>Archeus,</hi> for if moderately taken, they cauſe cheerfulneſs by ſtrengthening the Digeſtions, me<g ref="char:EOLhyphen"/>liorating the blood, fortifying the Balſom of life againſt all infectious breaths, and preventing the many enormous Idea's of fear, hatred, anxiouſneſs, ſorrow, and other per<g ref="char:EOLhyphen"/>plexing thoughts, which often worm out the contents and comforts of life, if immoderately taken, then they ſubjugate the <hi>Archeus</hi> to a ſtupidneſs, ſottiſhneſs, and dulneſs,
+<pb n="60" facs="tcp:37263:34"/>from its Narcotick virulency, capti<g ref="char:EOLhyphen"/>vating the ſame into obedience to its ſtupifying Idea, which works dif<g ref="char:EOLhyphen"/>ferently upon ſeveral Conſtitutions; ſome it beſots and renders them as blocks, others it makes couragious ready to attempt any deſperate de<g ref="char:EOLhyphen"/>ſign, witneſs the Spirits of Brandy in <hi>Hollanders</hi> Pates, make them fight like Bears, without fear of loſs of life; ſome it puts into an angry waſpiſh frame, ready to quarrel with every petty offending object; others it makes merry to a frantick madneſs, rendring them for a time in their diſcourſe and geſtures not unlike the Tenants of <hi>Bedlam.</hi>
+               </p>
+               <p>Again, Wine moderately taken, in ſuch a quantity, I mean, as will actuate the Spirits into a brisk po<g ref="char:EOLhyphen"/>ſture; to ſome, it bruſheth off all thoſe fears of want, and to them<g ref="char:EOLhyphen"/>ſelves they appear like Princes, and then they ſcorn to be baſe, or to act in a ſordid niggardly way, and
+<pb n="61" facs="tcp:37263:34"/>think themſelves no ſmall fools: o<g ref="char:EOLhyphen"/>thers it inſpires with a poetical vein, and makes their lines run with <hi>Bac<g ref="char:EOLhyphen"/>chus</hi> his feet; and in ſuch Poetick furies, high and lofty ſtreins have been warbled forth. And laſtly, ſome are ſo alevated, that they are extraordinarily fore-ſighted, inſo<g ref="char:EOLhyphen"/>much as to ſpeak Prophetically in ſome caſes.</p>
+               <p>Therefore the drinking of good wholſom well-ſpirited Liquor, may be as one aſſiſtance both againſt that Idea of fear wherewith the <hi>Archeus</hi> is frighted, when it re<g ref="char:EOLhyphen"/>ceives a peſtilent odor, &amp; againſt o<g ref="char:EOLhyphen"/>ther melancholy ſolicitous thoughts which often drive the Spirits to a low ebb, and dwine away the body in a conſumptive <hi>Tabes.</hi>
+               </p>
+               <p n="4">4. The fourth thing in order to a <hi>Zenexton, Antidote,</hi> or <hi>Preſer<g ref="char:EOLhyphen"/>vative,</hi> ought to be of a ſeaſoning balſamick and preſervative proper<g ref="char:EOLhyphen"/>ty, ſuch as may abſterſe the <hi>ſordes</hi>
+                  <pb n="62" facs="tcp:37263:35"/>or impurities from every digeſtion, and preſerve the Ferments clear from contagion, which commonly ſeizeth upon thoſe bodies whoſe di<g ref="char:EOLhyphen"/>geſtions are the moſt looſly per<g ref="char:EOLhyphen"/>form'd and excrements more plen<g ref="char:EOLhyphen"/>tifully abound, there the Idea of fear doth moſt powerful work to ſuperinduce a peſtilent Ferment.</p>
+               <p>The preventing therefore of which requires a certain purefying of the digeſtions and due ſeparation of excremental <hi>ſordes,</hi> which ought to be done not by Solutives and com<g ref="char:EOLhyphen"/>mon Purgatives, becauſe they ra<g ref="char:EOLhyphen"/>ther vitiate the digeſtions, liquate or melt the Chile, Cruor, and Arte<g ref="char:EOLhyphen"/>rial blood; nay, ſometimes even the ſolid parts themſelves into a pu<g ref="char:EOLhyphen"/>trilaginous corrupt excrement, cor<g ref="char:EOLhyphen"/>rupting the whole, inſtead of duly ſeparating the natural <hi>ſordes</hi> of the digeſtions; therefore they as well as all other corrupting Purgers, which work indiſcriminately upon
+<pb n="63" facs="tcp:37263:35"/>the whole maſs of humors, are herein to be eſchewed.</p>
+               <p>That therefore which will ſweetly do the work, without any trouble, comber, or fretting to the Spirits, ought to be of the nature of a Salt, and that too partly fixed, and part<g ref="char:EOLhyphen"/>ly volatile, that ſo it may paſs the better through all the digeſtions, opening obſtructions as it goeth a<g ref="char:EOLhyphen"/>long, correcting and mitigating Pontick Acidities (the cauſes of pains, ſtitches, and gripings) irri<g ref="char:EOLhyphen"/>tating the natural expulſive facul<g ref="char:EOLhyphen"/>ties, to let go at due ſeaſons all ex<g ref="char:EOLhyphen"/>cremental ſeparations, abſterſing the ingendred putrefied matter, that has ſtaid longer then of right in the bowels, which is the beginning and cauſe of worms, and wormatick Feavers-</p>
+               <p>And, this partly a Mineral Salt purg'd from its Hydropick and Scorbutick halituouſneſs, &amp; from its terreſtrious ferulencies, and that by
+<pb n="64" facs="tcp:37263:36"/>fire and water, which is to take a<g ref="char:EOLhyphen"/>way only that which lets or hinders it from becoming a noble Balſom, and, by yet further progreſs, accor<g ref="char:EOLhyphen"/>ding to the manuduction of the Art of Chymiſtry, may be brought to a noble fermentative Elixir, which may tinge the body from its fecu<g ref="char:EOLhyphen"/>lent impurities, into a generous quinteſſence of health; to ſuch a height may Salts be brought by the aſſiſtance of the Spagyrick Art imi<g ref="char:EOLhyphen"/>tating of Nature.</p>
+               <p>Now that which is truly of a preſervative nature againſt infecti<g ref="char:EOLhyphen"/>ous Diſeaſes, ought it ſelf to be highly depurated, and freed from its own inherent <hi>ſordes,</hi> leſt it be expected a thing ſhould communi<g ref="char:EOLhyphen"/>cate that to another, it has not it ſelf: but the culinary Salt is ſuſ<g ref="char:EOLhyphen"/>ceptable of a contagious odor, and therefore as ſuch cannot be admit<g ref="char:EOLhyphen"/>ted as a <hi>Zenexton,</hi> though in it lurks a Virgin untouchable by any
+<pb n="65" facs="tcp:37263:36"/>Exotick peſtilent Ferment, and by a further graduating proceſs may ap<g ref="char:EOLhyphen"/>pear from it, as well as from other Mineral Salts, that <hi>Primum ens ſa<g ref="char:EOLhyphen"/>lium,</hi> or great ſolvent Liquor of <hi>Pa<g ref="char:EOLhyphen"/>racelſus</hi> and <hi>Helmont.</hi>
+               </p>
+               <p>I prepare therefore a Mineral Salt by ſeparating from it its ſuper<g ref="char:EOLhyphen"/>fluous <hi>ſordes,</hi> which is purg'd by <hi>Vulcan</hi> and <hi>Neptune,</hi> who not at once, nor a ſecond time, is able ſuf<g ref="char:EOLhyphen"/>ficiently to be cleans'd from its con<g ref="char:EOLhyphen"/>tracted feculency; inaſmuch as all Mineral Salts in their coagulation, wrapt up together with themſelves, much of a terreſtrious impurity, as alſo an Embrionative Faetid ſulphur cloſe lock'd in their compaction; which Embrionative ſulphur (the conſtitutive cauſe (together with the diſſolv'd body of the Salt) of of ſulphurious Wells, as of <hi>Knarſ<g ref="char:EOLhyphen"/>brough, &amp;c.</hi>) I have ſometimes in working in thoſe Salts made to ap<g ref="char:EOLhyphen"/>pear to my own ſatisfaction.</p>
+               <pb n="66" facs="tcp:37263:37"/>
+               <p>This prepared Salt being Speci<g ref="char:EOLhyphen"/>ficated with a volatile Animal Salt, upon whoſe wings the volatile Sul<g ref="char:EOLhyphen"/>phur of a Mineral is carried, which volatile Salt being purely ſaline, and therefore Cleanſers of the Digeſti<g ref="char:EOLhyphen"/>ons, doth carry the fix'd depurated Salt along with it, with a more fa<g ref="char:EOLhyphen"/>cil current through the Digeſtions then otherwiſe, if not aſſiſted by ſuch a friendly co-natural Salt, by whoſe means the fix'd becomes more acquainted, and enters more intimately into the Digeſtions; by the one the obſtructions are open<g ref="char:EOLhyphen"/>ed, and the vital Balſom fortified according to the ſimilitude of Na<g ref="char:EOLhyphen"/>ture; and by the other, the Dige<g ref="char:EOLhyphen"/>ſtions make their ſeparations o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> their impurities the better and with more eaſe, and every Excrement is haſtened to its own proper Emun<g ref="char:EOLhyphen"/>ctory.</p>
+               <p>Of which prepared Salt I have had ſome late inſtances of its effi<g ref="char:EOLhyphen"/>cacy
+<pb n="67" facs="tcp:37263:37"/>in depurating the Digeſtions, abſterſing the clogging <hi>ſordes</hi> that cling to the Tunicles of the Ven<g ref="char:EOLhyphen"/>tricle and other bowels, of which I ſhall relate one or two, <hi>viz.</hi> Of a Child that was deem'd to be con<g ref="char:EOLhyphen"/>ſumptive, vomited moſt of what it took, and waſted away, in which I judged a corrupt <hi>ſordes</hi> clogging the Digeſtions, from which, Worms cauſing the foreſaid ſymptoms: Up<g ref="char:EOLhyphen"/>on the taking of a few Doſes of this prepared Salt, to which was ad<g ref="char:EOLhyphen"/>ded the third part of a Mineral pro<g ref="char:EOLhyphen"/>per in the caſe, together with a lit<g ref="char:EOLhyphen"/>tle Cordial acuated with vegetable fix'd Salts; the vomiting preſently left the Child, and it fell freſhly to its wonted food with a great deal of eagerneſs, and in a very little time became lively, active, and fle<g ref="char:EOLhyphen"/>ſhy.</p>
+               <p>A woman that had a great Cough, the oeconomy of the Stomach and Lungs ſo perverted, as that the Di<g ref="char:EOLhyphen"/>geſtions
+<pb n="68" facs="tcp:37263:38"/>were oppreſſed with an a<g ref="char:EOLhyphen"/>bundance of tuff viſcous humors, and ſhe brought ſo weak, as her friends were glad to take away the tuff Phlegm from her with a cloth, and every one that ſaw her judg'd her no otherwiſe then a dead wo<g ref="char:EOLhyphen"/>man: upon the taking of the fore<g ref="char:EOLhyphen"/>ſaid Medicine, together with a few Doſes of <hi>Sal martis,</hi> was, by the bleſſing of God, in a ſhort time freed from thoſe oppreſſing Symp<g ref="char:EOLhyphen"/>toms: other inſtances I could give of bringing away Worms and Wor<g ref="char:EOLhyphen"/>matick matter, but I haſt.</p>
+               <p>This Salt therefore ſeeing it thus mundifies the Digeſtions, and pro<g ref="char:EOLhyphen"/>motes due ſeparation of excremen<g ref="char:EOLhyphen"/>tal <hi>ſordes,</hi> cannot but thereby be ve<g ref="char:EOLhyphen"/>ry effectual as a Preſervative; inaſ<g ref="char:EOLhyphen"/>much as it prevents or takes away thoſe <hi>ſordes,</hi> which by a further de<g ref="char:EOLhyphen"/>gree of degenerating, become the <hi>Materia ſubſtrata,</hi> fitted matter for infectious Ferments to work up<g ref="char:EOLhyphen"/>on:
+<pb n="69" facs="tcp:37263:38"/>And what this Salt may be fur<g ref="char:EOLhyphen"/>ther exalted to, I have ſeveral gra<g ref="char:EOLhyphen"/>duating Experiments in work, which in time I may poſſibly give an ac<g ref="char:EOLhyphen"/>count of to the World. Therefore I would adviſe Phyſicians who make their own Medicines (which cer<g ref="char:EOLhyphen"/>tainly muſt be the beſt and ſureſt of ways, whereof I could give ſeveral reaſons, but that I cannot now ſtand to inſiſt further) I ſay, chief<g ref="char:EOLhyphen"/>ly to ſet up good Preparations of Salts, for they contain in them the Key both for unlocking all manner of Obſtructions (and Diſeaſes thence) in the body, and highly graduated for unlocking the bodies of Minerals and Metals, whereby the nobleſt of Medicines are at hand.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>5ly.</hi> The Zenexton.</head>
+               <p>THat which we aſſum'd for our Title in this ſhort Eſſay, comes
+<pb n="70" facs="tcp:37263:39"/>now to view, It is an <hi>Appenſum</hi> or <hi>Amulet,</hi> carried or hung upon the left breſt, as <hi>Helmont</hi> ordereth, by the mediation of which all infecti<g ref="char:EOLhyphen"/>ous Odors are kept off, it being tu<g ref="char:EOLhyphen"/>telary to the <hi>Archeus:</hi> Now there are of them in all the three King<g ref="char:EOLhyphen"/>doms of Nature, <hi>viz.</hi> in Vegeta<g ref="char:EOLhyphen"/>bles, Animals, and Minerals, of which Animals and Minerals excel Vegetables; amongſt Minerals, ma<g ref="char:EOLhyphen"/>ny precious Stones are richly fraught with tutelary Idea's of keeping off all Peſtilent Infections: nay, and further, of attracting forth the virulency from an infected body; as for inſtance, what is ſaid of the <hi>Sapphirus lazureus,</hi> or <hi>Hyacinthus citrinus,</hi> which being held for a quarter of an hour upon the pain<g ref="char:EOLhyphen"/>ful part, ſo as the light from the Gem may ſmite upon the infected or broken-forth part, and upon it collect its Rays, the touched place will within one hour turn black, and
+<pb n="71" facs="tcp:37263:39"/>is an infallible token (as it is ſaid) of the <hi>Plague,</hi> but if the touched place grows not black, the ſuſpected is free from the diſeaſe.</p>
+               <p>Alſo red <hi>Amber</hi> (which as I ſaid afore) applied to the Plane<g ref="char:EOLhyphen"/>tary Pulſes, was the ſecret <hi>Zenexton</hi> the <hi>Spaniſh</hi> Chirurgion us'd (as <hi>Helmont</hi> relates) for three years together: and amongſt other Mi<g ref="char:EOLhyphen"/>nerals, the <hi>Electrum minerale im<g ref="char:EOLhyphen"/>maturum Paracelſi;</hi> which, as <hi>Hel<g ref="char:EOLhyphen"/>mont</hi> ſaith, hung about the neck, <hi>Ab<g ref="char:EOLhyphen"/>immundo ſpiritu liberat,</hi> &amp; probably may be a <hi>Zenexton,</hi> and free the Bearer from this unclean Spirit of the <hi>Peſtilence.</hi> Amongſt Vegeta<g ref="char:EOLhyphen"/>bles, the <hi>Petaſitis</hi> or larger Colts<g ref="char:EOLhyphen"/>foot is accounted by the <hi>Germans</hi> an Anti-peſtilential Plant; but to haſten to what I aim at.</p>
+               <p>That we muſt enquire after ſuch a <hi>Zenexton,</hi> as may have an adi<g ref="char:EOLhyphen"/>quate cauſe of preventing timid I<g ref="char:EOLhyphen"/>dea's, or correcting them being al<g ref="char:EOLhyphen"/>ready
+<pb n="72" facs="tcp:37263:40"/>impreſs'd upon the <hi>Archeus,</hi> which, as I ſaid before, is the Pro<g ref="char:EOLhyphen"/>ximate Agent (being determin'd from a Fermental <hi>venenum</hi>) to work upon excremental <hi>ſordes,</hi> whence from one actuating the o<g ref="char:EOLhyphen"/>ther, comes the <hi>Plague,</hi> or other malignant Diſeaſes. Such a one, I ſay, it muſt be as has an Idea exal<g ref="char:EOLhyphen"/>ted ſo highly as to correct the enor<g ref="char:EOLhyphen"/>mous, irregular, and to its own hurt, too much inclining Idea's of the <hi>Archeus.</hi>
+               </p>
+               <p>For nothing can correct thoſe in<g ref="char:EOLhyphen"/>timate and inherent Characters of the <hi>Archeus,</hi> but ſuch as ſtand in a counter-point, and are more pre<g ref="char:EOLhyphen"/>valent than the former, by warning out thoſe preexiſtent morbid Idea's; as for inſtance, thoſe venenal and madling Idea's which have inverted the Eutaxy of the <hi>Archeus</hi> in mad people, cannot better be rooted forth than by the ſuper-inducing of a more powerful Idea, which of all
+<pb n="73" facs="tcp:37263:40"/>the Idea's, the <hi>Archeus</hi> is impreſs'd with, that of Fear ſeizeth the moſt deeply, and ſo rooteth out thoſe who are more looſly implanted.</p>
+               <p>Therefore ſuch perſons (though ſome kind of madneſſes more than others) are curable moſt probably, (and not only ſo, but has been found experimentally) by almoſt drowning of them in water, keep<g ref="char:EOLhyphen"/>ing them ſo long under water, as that they but hardly eſcape with their lives; and ſo they loſe thoſe morbid venenal and madling Idea's, by the great Idea of Fear, which furpriz'd the <hi>Archeus,</hi> leſt it ſhould forthwith be deſtroyed, which makes it quit thoſe former and more ſleightly impreſſed Characters.</p>
+               <p>By which means the <hi>Archeus</hi> ſometimes gets quit of ſome Ideal Diſeaſes, characterized in the very ſpirit of life; as the Gout ſome<g ref="char:EOLhyphen"/>times cured by a ſudden fright, as that inſtance of a Sow invited by the
+<pb n="74" facs="tcp:37263:41"/>ſmell of a Pultiis, laid to a Gouty mans feet, ſhe endeavouring to take her prey, threw him, and frighted him out of his Diſeaſe; as the learn<g ref="char:EOLhyphen"/>ed and ingenious Eſquire <hi>Boyle</hi> in his experimental Philoſophy, makes mention occaſionally. So ſome<g ref="char:EOLhyphen"/>times an Ague has been known cu<g ref="char:EOLhyphen"/>red by throwing the party upon the acceſs of the Paroxiſme into a deep water, whereby, as in the for<g ref="char:EOLhyphen"/>mer, the <hi>Archeus</hi> being impreſs'd with a ſtrong Idea of Fear, lets go all thoſe inferior and looſlier hang<g ref="char:EOLhyphen"/>ing Idea's, and ſo returns to its pri<g ref="char:EOLhyphen"/>mitive ſimplicity: For the fewer Idea's, the <hi>Archeus</hi> is amuz'd with, eſpecially of thoſe careful and per<g ref="char:EOLhyphen"/>plexing ones, the more quiet, free, and calm it is from troubles and diſeaſes.</p>
+               <p>I remember to the confirmation of what I have ſaid, a pretty Story out of <hi>Helmont,</hi> in his <hi>Demens I<g ref="char:EOLhyphen"/>dea,</hi> where he mentioneth ſomething
+<pb n="75" facs="tcp:37263:41"/>remarkable that he was an eye-wit<g ref="char:EOLhyphen"/>neſs of, which was of an old man naked, and faſtned with ropes in the Ship, and weights to his feet at the Stern, asking what that uncoth ſight meant? One of the Mariners told him, he ſo bound was a <hi>Hy<g ref="char:EOLhyphen"/>drophobus,</hi> being bitten of a mad Dog, and therefore fearful of the water, which that madneſs brings along with it: He ſtood to ſee the Experiment, they hois'd up the man on height, and let him fall ſuddenly down (faſtened in ropes that he could not be carried away) into the Sea, and kept him under water for the ſpace of <hi>Miſerere,</hi> which they repeated twice more for the ſpace of <hi>Salutationis Angellicae,</hi> then rowl'd forth the water out of his body, he reviv'd and was cured of his madneſs.</p>
+               <p>Alſo of a Carpenter, who from ſome horrid <hi>Spectra's</hi> was ſtruck mad, by chance broke his bands,
+<pb n="76" facs="tcp:37263:42"/>and leap'd into a Ditch, was drawn forth for a dead Carkaſs, but re<g ref="char:EOLhyphen"/>viv'd and liv'd eighteen years after, free from madneſs; of which man<g ref="char:EOLhyphen"/>ner of cure, he made ſeveral trials himſelf, and they were always cu<g ref="char:EOLhyphen"/>red; unleſs that ſome were drawn forth too ſoon through fear of death: other paſſages he hath that might further illuſtrate the preſent Theme, but that I haſt.</p>
+               <p>Now the ſame reaſon that ſalves theſe Difficulties, how theſe Ideal venenal Characters, which have real Malady, either of mind or bo<g ref="char:EOLhyphen"/>dy hanging upon them, are rais'd forth by the intervening of more powerful Idea's of another ſtamp, which center ſo deeply into the Spi<g ref="char:EOLhyphen"/>rit (as above all that of Fear) as that it blots out all other pre-ex<g ref="char:EOLhyphen"/>iſtent diſeaſed Idea's. I ſay, the ſame reaſon (comparing efficient cauſes) gives us light to our pre<g ref="char:EOLhyphen"/>ſent inquiry of a <hi>Zenexton,</hi> that may
+<pb n="77" facs="tcp:37263:42"/>powerfully both blot out the con<g ref="char:EOLhyphen"/>ceived Idea's of Fear, and prevent the impreſſions of the ſame, which is the efficient of Peſtilential Di<g ref="char:EOLhyphen"/>ſeaſes.</p>
+               <p>The ingenious and quick-ſighted <hi>Van-Helmont,</hi> ſaith, That there is an Ingenit or in-bred Idea of hatred in a Toad againſt a man, which if it be exaſperated by hanging them up in ſight, becomes ſo highly ex<g ref="char:EOLhyphen"/>alted in its own venom as that it's able to root out another pre-ex<g ref="char:EOLhyphen"/>iſtent Idea of Fear in the humane <hi>Archeus,</hi> being firſt approximated by a mummial Ferment to act upon our <hi>Archeus,</hi> wherein are impreſſed all kinds of Idea's, ſome having deeper rooting than others.</p>
+               <p>The manner of preparing them he had from the famous <hi>Butler</hi> of <hi>Ireland,</hi> the ſame as had the highly graduated Stone of Salt, which cu<g ref="char:EOLhyphen"/>red moſt diſeaſes by a ſleight touch<g ref="char:EOLhyphen"/>ing of the tip of the Tongue there<g ref="char:EOLhyphen"/>with,
+<pb n="78" facs="tcp:37263:43"/>or by dipping it in Salet-oyl, a ſpoonful wherein it was but dipt, being poured into a bottle of more Oyl, made it all become a Medicine for all or moſt outward diſeaſes: who, as <hi>Helmont</hi> relates, cured ſome thouſands of the Plague in <hi>London</hi> to his knowledg.</p>
+               <p>He commanded <hi>Helmont</hi> to take a great Toad in an After-noon in <hi>June,</hi> to hang him up neer the fire<g ref="char:EOLhyphen"/>place, and to place a waxen Platter underneath, and after three days it vomited up Inſects, <hi>viz.</hi> moving Flies, their wings ſhining with a green color, which done, he told him, that now he had enough Me<g ref="char:EOLhyphen"/>cine to cure 40000 infected with the Plague; he promiſed to ſhew him the hinge of the matter, but be<g ref="char:EOLhyphen"/>ing baniſhed preſently after, he did not, therefore <hi>Helmont</hi> was left to make Experiments of what he knew.</p>
+               <p>He took therefore thoſe rejected
+<pb n="79" facs="tcp:37263:43"/>
+                  <hi>ſordes,</hi> and together with the exic<g ref="char:EOLhyphen"/>cated <hi>Cadaver</hi> wrought them into <hi>Trochy's,</hi> which he uſed happily both for the preventing, as alſo the cure of the Plague: he orders them to be old Toads, whoſe eyes abound with white Worms, and are almoſt wholly transform'd into Worms; theſe he commands to be hung at the left breſt, which both drive a<g ref="char:EOLhyphen"/>way contagion, and being bound to the infected place draws forth the poyſon.</p>
+               <p>Now the ground of this Medi<g ref="char:EOLhyphen"/>cine he ſuppoſeth thus, <hi>viz.</hi> That the in-bred Idea of hatred in the Toad, is by hanging in the ſight of a man, ſo exaſperated againſt the humane <hi>Archeus,</hi> as that it becom<g ref="char:EOLhyphen"/>eth a ſtronger impreſſion than that in-bred Idea of Fear in us, and therefore being determin'd to act upon our <hi>Archeus</hi> by the interve<g ref="char:EOLhyphen"/>ning of a mummial Ferment, roots out the pre-exiſtent Idea of Fear,
+<pb n="80" facs="tcp:37263:44"/>and the conſequents, therefore all contagious Ferments.</p>
+               <p>For, as the primitive cauſe of the Plague is a frightful Idea of terror in the <hi>Archeus,</hi> which it may con<g ref="char:EOLhyphen"/>ceive in it ſelf, though we know not thereof, as the <hi>Archeus</hi> of him that is offended at the preſence of ſuch or ſuch an object, though the per<g ref="char:EOLhyphen"/>ſon himſelf neither ſees nor knows its preſence; ſo the curative Idea muſt be ſuch as may alſo reach the <hi>Archeus,</hi> ſo that the peccant Idea may be blotted forth; juſt as in the foregoing inſtances I hinted.</p>
+               <p>That is, that as the humane <hi>Ar<g ref="char:EOLhyphen"/>cheus</hi> is ſubjugated and brought un<g ref="char:EOLhyphen"/>der bondage by the foreign Idea's of ſome toxical Plants, and invete<g ref="char:EOLhyphen"/>rate Ferments of Animals, as of <hi>Napellus</hi> and the <hi>Tarantula,</hi> at whoſe whiſtle it danceth, and is not at liberty to ſtand in its own calm<g ref="char:EOLhyphen"/>neſs, without the aſſiſtance of ſome counter Idea, which in Nature one
+<pb n="81" facs="tcp:37263:44"/>is always ſet againſt another. So likewiſe in this Diſeaſe, the efficient being Ideal, I mean, that of Fear, which ſuddenly catching hold of a contagious Ferment wandering in the Air, as ſome malignant blaſt, muſt find an Ideal Remedy, ei<g ref="char:EOLhyphen"/>ther of the <hi>Archeus</hi> correcting it ſelf from its former erronious con<g ref="char:EOLhyphen"/>ceptions (whereby its harm was of its ſelf) or elſe from another ſu<g ref="char:EOLhyphen"/>pervening Idea, implanted in ſome Vegetable, Animal, or Mineral, and that either natural or artificial; ours is artificial, but grounded upon the natural. For that the Toad has an <hi>odium</hi> againſt a man is natural, but that it ſhould be heightened by ſuch a way as hanging the Toad up in a mans ſight, and then determining it to its proper end by the <hi>medium</hi> of a mummial Ferment, that is ar<g ref="char:EOLhyphen"/>tificial.</p>
+               <p>As to the diſcovering of the cer<g ref="char:EOLhyphen"/>tainty, whether a perſon ſuſpected
+<pb n="82" facs="tcp:37263:45"/>have it, yea or nay, the ſame thing may be uſed, <hi>Ego ſemper in dubiis,</hi> (ſaith <hi>Helmont</hi>) <hi>bufone pulverato ſum uſus, pultiſque forma in aquae ſimplicis tantillo, decocto; quod ſi mox inde dolor in eſchera, anthrace &amp; bubone, miteſceret, ſecurè pestem adeſſe conjeci.</hi> And though <hi>Para<g ref="char:EOLhyphen"/>celſus</hi> ſaith, That they being applied to a peſtilent Tumor or Plague-ſore, ſwell with the poyſon they attract; yet <hi>Helmont</hi> ſaith, He never could obſerve them ſwell though he us'd them frequently, but that they drew forth the venomous degerat peſti<g ref="char:EOLhyphen"/>lent Matter, as a Topick thereto ap<g ref="char:EOLhyphen"/>plied, he affirms.</p>
+               <p>Now, though this kind of Crea<g ref="char:EOLhyphen"/>ture ſeem a ſordid thing, againſt which, we to them, as well as they to us, bear a ſecret <hi>odium,</hi> ſo that we look upon them commonly with a kind of horror, averſion, and de<g ref="char:EOLhyphen"/>teſtation, yet even in this very Idea in them, being aggravated againſt
+<pb n="83" facs="tcp:37263:45"/>us, is ſeated the chiefeſt cure; for <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eing exalted, and that gradually <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y a continued lingering death, the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ery Ideal <hi>odium</hi> is impreſſed upon the whole, and lives though the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hing it ſelf dies, and in the aſhes <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ears the ſame internal character, as while it was yet alive.</p>
+               <p>To the ſame purpoſe of cure doth <hi>Etzlerus</hi> in his <hi>Iſogoge phyſicoſmagi<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>medica</hi> tells us, <hi>Bufo exiccatus a<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>etoque maceratus, &amp; peſtilenti bu<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oni impoſitus, venenum polentiſſime <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>licit, &amp; apoſtemata matureſcere fa<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>it.</hi> And the ingenious Doctor <hi>Villis</hi> tells us of an aſh-color'd <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>owder which a Courtier us'd with <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ood ſucceſs to many, whoſe Doſe was half a Dram, which caus'd plen<g ref="char:EOLhyphen"/>tiful ſweat, and ſo freed from the virulency of the Diſeaſe, which <hi>Di<g ref="char:EOLhyphen"/>aphoretick</hi> was theſe Animals purg'd by Salt, waſh'd in good Wine, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>alcin'd in a Pot to a Powder.</p>
+               <p>By which we ſee, that in this de<g ref="char:EOLhyphen"/>ſperate
+<pb n="84" facs="tcp:37263:46"/>Diſeaſe, they may be taken inwardly, and, that not only with<g ref="char:EOLhyphen"/>out danger, but with good ſucceſs. But however, I ſhould rather ap<g ref="char:EOLhyphen"/>prove of them as an outward <hi>Ap<g ref="char:EOLhyphen"/>penſum</hi> and external <hi>Zenexton,</hi> than as an inward Medicine; for thus the Idea in which is the preſerving vertue of the <hi>Archeus,</hi> is more emi<g ref="char:EOLhyphen"/>nently apparant in mortifying thoſe dull Idea's of Fear in low-ſpirited <hi>Archeus</hi>'s, and of dinting the viru<g ref="char:EOLhyphen"/>lency of the peſtilent contagious Ferment.</p>
+               <p>For outward application they are certainly the beſt by attracting the virulency out of the infected body. <hi>Imprimis fateor</hi> (ſaith <hi>Helmont</hi>) <hi>me bufones applicuiſſe bubonibus &amp; eſcharis, tam in pectore, capite, mammillis, quam alibî, tam in viris, quàm mulieribus: ac ub que, non ſine prompto juvamine &amp; doloris mit<g ref="char:EOLhyphen"/>tigatione.</hi>
+               </p>
+               <p>But for an inward Medicine, I
+<pb n="85" facs="tcp:37263:46"/>ſhould highly approve of <hi>Hippocra<g ref="char:EOLhyphen"/>tes</hi> his Remedy, By which he cured the popular <hi>Peſt</hi> of the <hi>Grecians,</hi> which a certain man deſirous to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>now, beſought his <hi>Eu-daemon</hi> or Tu<g ref="char:EOLhyphen"/>telary Angel, what that was where<g ref="char:EOLhyphen"/>with <hi>Hippocrates</hi> cured the <hi>Plague,</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e anſwered, That <hi>Hippocrates</hi> u<g ref="char:EOLhyphen"/>ſed Sulphur, Salt, and Pitch.</p>
+               <p>Amongſt all bodies, none reſiſts <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oyſonous Odors ſo much as Sul<g ref="char:EOLhyphen"/>phur, whereupon probably <hi>Hippo<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rates</hi> called it, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>quid divi<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>um, quod ſulphur virus peſtilens <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>anaret.</hi> This by its imbalming O<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or keeps bodies from corrupting, and therefore uſed for preſerving Wines from decaying by fracedi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ous Odors of Veſſels, wherewith they are firſt fum'd, and like a fire blots out every footſtep of conta<g ref="char:EOLhyphen"/>gious Odors where ever it finds them.</p>
+               <p>
+                  <hi>Vide</hi> (ſaith <hi>Helmont</hi>) <hi>In cha<g ref="char:EOLhyphen"/>taracta
+<pb n="86" facs="tcp:37263:47"/>Gandavenſi integram le<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>gionem Neapolitanam peſte periiſſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>erat autem cohors ibi Germanorum<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> quae pulvere pyrio ſua tinxerat indu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſia: horum ſi qui perirent, id pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>dyſenteria, non autem peſte.</hi> So that their Shirts being dipt or rowl'd i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Gunpowder, became thereby pre<g ref="char:EOLhyphen"/>ſerved from the <hi>Plague:</hi> Now, that is made of Sulphur, Nitre, and duſt of Charcole, of which Sulphur is the chief Ingredient, though Ni<g ref="char:EOLhyphen"/>tre alſo is a ſulphurious Salt wholly flamable like Sulphur it ſelf.</p>
+               <p>And therefore in a popular <hi>Peſt,</hi> the ſhooting off of Guns often, is no ſmall aſſiſtance againſt the infe<g ref="char:EOLhyphen"/>ctions <hi>Myaſm</hi> in the Air, and alſo the burning of Sulphur in houſes, roots out the footſteps of the wan<g ref="char:EOLhyphen"/>dering <hi>Fracedo;</hi> like the fuming of Veſſels therewith, for keeping Wines or other Liquors from fra<g ref="char:EOLhyphen"/>cedinous putrefying Odors. <hi>Hippo<g ref="char:EOLhyphen"/>crates</hi>
+                  <pb n="87" facs="tcp:37263:47"/>fum'd all his Wine that he gave in the <hi>Plague</hi> after this man<g ref="char:EOLhyphen"/>ner, by burning a Match of Sulphur within the neck of a Glaſs-bottle, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ill'd one third, corking up the Bot<g ref="char:EOLhyphen"/>tle cloſe, and after ſhaking the Wine well about, and ſo reiterating until the Wine had at ſeveral times <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mbibb'd into it ſelf a competeut quantity of the Balſamick Odor of the Sulphur, whereby it was both <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ept along time it ſelf, as alſo was <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ble to communicate a Balſamick, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eaſoning and preſerving quality to the blood, ſo as a Peſtilent Odor could ſcarcely find room.</p>
+               <p>Thus Juyces and other Liquors may after this manner be preſerv'd a long time without Sugar, which generally added in ſuch a quantity <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s to reduce them into Syrups, doth by their great clog dull the Fer<g ref="char:EOLhyphen"/>ment of the Stomach and other parts, and ſo cauſe an inclination
+<pb n="88" facs="tcp:37263:48"/>to a Scorbatick habit: But this Su<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>phurus <hi>Gas</hi> being well incorporate in them, will preſerve them without that additament.</p>
+               <p>And as Fracedinous Odors and apt to ſeize upon Liquors, thereby inclining them to putrefaction an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> corruption; ſo the Peſtilent Odo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is as apt to take hold of the blood its Tartar (or Excrement of the fourth Digeſtion) and other hu<g ref="char:EOLhyphen"/>mors of the body, if not ſeaſon'd by its own innate preſerving Bal<g ref="char:EOLhyphen"/>ſom exalted, which indeed if ſtrong is a fire that keeps forth all infecti<g ref="char:EOLhyphen"/>ous breaths; or elſe ſeaſon'd with a Mineral Sulphur, which both help to dint venomous impreſſions when contracted, as alſo to preſerve a<g ref="char:EOLhyphen"/>gainſt them.</p>
+               <p>And though there be a Vitriolin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> acidity in Sulphur (as by diſtilling the acid Oyl or ſpirit is made ma<g ref="char:EOLhyphen"/>nifeſt) which taken too much (by
+<pb n="89" facs="tcp:37263:48"/>the immediate Organs of ſence, the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oſtrils) become hoſtile to the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erves and Membranous parts of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Brain, drying up the innate moiſture thereof, by the more then ordinary exiccating quality of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ulphur, and cauſing the Nerves to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ag from their natural tention; thence I have known a blindneſs appen to a friend of mine who was <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o careful in taking up her Noſtrils that Acid, and therefore hoſtile li<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uor to the Nerves as ſhe was Lan<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ering her fine linen, which ſhe was the more apt to do in reſpect of her <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ant of quick ſmell; theſe Fumes <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>id ſo dry up the natural moiſture <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f her Brain, and ſo mortified the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ptick Nerves from their preſent <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ork, as that flagging, they ſuffered <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Pupil of the eyes to be extended <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nto that magnitude as we call a <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>utta Serena,</hi> whereby ſhe was wholly blind: but by the bleſſing
+<pb n="90" facs="tcp:37263:49"/>of God, I ordered her (after o<g ref="char:EOLhyphen"/>ther advice) ſomewhat of Vola<g ref="char:EOLhyphen"/>tile Spirits both inwardly, and alſo up her Noſtrils, which did ſuper induce an irrigating moiſture in the <hi>Pya-mater</hi> and Optick Nerves whereby the Nerves were again brought into their wonted poſture and the Pupil contracted, and ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in a ſhort time receiv'd her ſight a<g ref="char:EOLhyphen"/>gain by the great mercy of God <hi>To whom be Glory.</hi>
+               </p>
+               <p>That which I aim'd at in the fore ſaid inſtance, was, That though Sul<g ref="char:EOLhyphen"/>phur may by the fume thereof ta<g ref="char:EOLhyphen"/>ken too immediately into the ſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>citive Organs, prove hurtful t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Membranous parts or <hi>genus nervo<g ref="char:EOLhyphen"/>ſum;</hi> yet when it is taken ln the <hi>medium</hi> of another thing, the Aci<g ref="char:EOLhyphen"/>dity is caſtigated, and the fume o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> odor thereof is as a Balm or Con<g ref="char:EOLhyphen"/>diment that runs aloug in the Di<g ref="char:EOLhyphen"/>geſtions, leaving its <hi>Gas</hi> in every
+<pb n="91" facs="tcp:37263:49"/>Stage as it poſts from one part of the body to another. So much for Sulphur as conſidered in its <hi>Gas</hi> or imbalming Odor.</p>
+               <p>Now, as for Sulphur to be taken inwardly in its own ſubſtance, re<g ref="char:EOLhyphen"/>quires a previous preparation; therefore <hi>Hippocrates</hi> gives his, though a very ſlight one; becauſe in his days Chymiſtry or the art of Anatomizing things into their con<g ref="char:EOLhyphen"/>ſtituent principles, by a retrograde <hi>Analyſis,</hi> was but in <hi>Embrio,</hi> and ſcarce got into ſwadling Clouts, though conſidering the <hi>Genius</hi> of his time, he was one that had as great an inſight into the Wonders of Na<g ref="char:EOLhyphen"/>ture, as any man, then his prepara<g ref="char:EOLhyphen"/>tion was a levigating it with water upon a Marble, and then drying it, and though this way may not want its commendation in the effect, yet a better prepared one cannot, but muſt be more efficacious, in reſpect
+<pb n="92" facs="tcp:37263:50"/>that all Minerals are but in a way of <hi>melioration.</hi>
+               </p>
+               <p>I have therefore a Sulphur by me, elevated from a few imbalming Vegetables, whoſe vertues may not be a little contributary to the gra<g ref="char:EOLhyphen"/>duating of its preſerving qualities, which I give in Feavers that has any thing of malignity, as a powerful <hi>Alexipharmick.</hi> And as his pre<g ref="char:EOLhyphen"/>paration of Sulphur was ſleight, ſo his preparation of his Salt was but in the way to a further exaltation by depuration, <hi>&amp;c.</hi> (which, let be ſpoken without any unhandſom reflection upon ſo noble a Phyſi<g ref="char:EOLhyphen"/>cian.)</p>
+               <p>For though he did thereby free his Salt from thoſe peregrine hali<g ref="char:EOLhyphen"/>tuous vapors, which orderly are in<g ref="char:EOLhyphen"/>herent in common <hi>Sal marins,</hi> yet a terreſtrious part was left therein, which might dull it in his ſeaſoning property; ſo that both the terre<g ref="char:EOLhyphen"/>ſtrious
+<pb n="93" facs="tcp:37263:50"/>and Hydropick ſuperfluities may be removed, its depuration muſt be higher, by taking away that which defiles it, and expoſeth it even to the contamination of infectious Odors, which the pure part is free from.</p>
+               <p>For ſeeing it muſt help to abſterſe thoſe fracid Impurities in the ſto<g ref="char:EOLhyphen"/>mach, got by the degenerating of the Ferment thereof, after invaſion of the <hi>Peſt,</hi> its ſelf ought to be pure and clean. The Vehicle wherein theſe are to be taken, is a generous Wine, and that hot, leſt given tepid, it ſhould cauſe a nauſeouſneſs upon the ſtomach: With this he orders infected perſons to ſweat much, given for three days together, and that twice a day, ſweating for four hours together, if they can bear it; and during the time of ſweating, they are to have no kind of drink; and after ſweating, they are to be
+<pb n="64" facs="tcp:37263:51"/>fed with Cream of Barley, and for their drink pitch'd Wine, with a little of the aforeſaid Powder.</p>
+               <p>For a Topick or outward appli<g ref="char:EOLhyphen"/>cation, the leaves of <hi>Aſarum</hi> Mace<g ref="char:EOLhyphen"/>rated in Vinegar, plac'd hot upon a Bubo to the ſoles of the Feet, and wriſts of the hands, which after twelve hours (then ſtinking ſtrong<g ref="char:EOLhyphen"/>ly) he orders to be buried, which by a ſecret <hi>Magnatiſm</hi> attracts the virulent contagious matter out of the body, by thoſe Emunctories whether Nature drives it. Alſo clothes dipt in <hi>Greek</hi> Wine, in which a little Sulphur is boyl'd therein, ap<g ref="char:EOLhyphen"/>plied to great Bubo's.</p>
+               <p>All which argues the Sagacity of the Noble <hi>Hippocrates,</hi> who ſo le<g ref="char:EOLhyphen"/>vell'd his Medicines, as that they might directly hit the Mark aim'd at; that whether we conſider his inward or outward Remedies, or both, they all ſtrike at the virulent
+<pb n="95" facs="tcp:37263:51"/>contagious Ferment, and mortifie the Peſtilent <hi>vennum;</hi> and then Na<g ref="char:EOLhyphen"/>ture thruſts it forth of its own ac<g ref="char:EOLhyphen"/>cord, either through many ſmall port-holes, the Pores, or the proper Peſtilent Emunctories, the <hi>Plague</hi>-ſores.</p>
+               <p>There was another <hi>Arcanum,</hi> by which (as <hi>Helmont</hi> ſaith) <hi>Hip<g ref="char:EOLhyphen"/>pocrates</hi> got Divine Honors, and that was made of Vipers fleſh, by cutting off their heads and tails, ta<g ref="char:EOLhyphen"/>king off their skins, which together with the guts and gall was rejected, only the heart and liver was re<g ref="char:EOLhyphen"/>ſerv'd: the fleſh with the foreſaid bowels and bones were bruis'd to<g ref="char:EOLhyphen"/>gether, and dry'd to a Powder, which Powder was ſprinkled with diſpum'd Honey, and to the pallia<g ref="char:EOLhyphen"/>ting of the ſecret. The <hi>Aroma</hi> of the Country was added, the reaſon of which <hi>Arcanum</hi> working ſo ſtrangely, as by a poyſonous crea<g ref="char:EOLhyphen"/>ture
+<pb n="96" facs="tcp:37263:52"/>to take away a poyſonous Di<g ref="char:EOLhyphen"/>ſeaſe: I ſhall not now ſtand to ſhew, only this in ſhort, that every poyſonful noxious creature has its Antidote plac'd alſo in it, by the ap<g ref="char:EOLhyphen"/>pointment of the great Creator, who in his great work of the Crea<g ref="char:EOLhyphen"/>ture, has plac'd the Enemy which appear'd in the fall, and by it ſtands his healing Vertue the badge of his Preſence (according to the capa<g ref="char:EOLhyphen"/>city of the Creature) even in the ſame very Creature; and that as the Peſtilent Infection is from a cer<g ref="char:EOLhyphen"/>tain venome, ſo this venenous Crea<g ref="char:EOLhyphen"/>ture (as is probable the like from other Sepents) contains a ſingular Antidote there againſt: but I for<g ref="char:EOLhyphen"/>bear.</p>
+               <p>As for the Diet of infected per<g ref="char:EOLhyphen"/>ſons, it ſhould be that which is light and eaſie of digeſtion, and but very ſparingly taken, for as in every Feaver, ſo eſpecially in the <hi>Plague,</hi>
+                  <pb n="97" facs="tcp:37263:52"/>the Digeſtions are defective, and therefore apter to corrupt the bo<g ref="char:EOLhyphen"/>dy the more food is taken, accord<g ref="char:EOLhyphen"/>ing to <hi>Hippocrates</hi> his own Apho<g ref="char:EOLhyphen"/>aiſm, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> un<g ref="char:EOLhyphen"/>clean bodies, by how much the more they are nouriſhed, ſo much they are the more hurt or corrupted.</p>
+               <p>
+                  <hi>Helmont</hi> commends the Potion of <hi>Hippocrates,</hi> to which he adds Ginger, and the Black-berries of the Ivy; concerning which laſt, I re<g ref="char:EOLhyphen"/>member what the moſt ingenious <hi>Boyle</hi> ſaith in one place of his ex<g ref="char:EOLhyphen"/>perimental Philoſophy, that he had an <hi>Arcanum</hi> communicated to him, from a perſon that had cured many of the <hi>Plague</hi> in <hi>Ireland,</hi> which was the ſame aforeſaid, <hi>viz.</hi> a good Doſe of the Powder of fully ripe Ivy-ber<g ref="char:EOLhyphen"/>ries; to which in the ſame Diſeaſe, the juyce of Horſe-dung was a <hi>Suc<g ref="char:EOLhyphen"/>cedaneum,</hi> both which us'd to work
+<pb n="98" facs="tcp:37263:53"/>plentifully by ſweat: and <hi>Helmont</hi> ſaith concerning his, that they are Diaphoretick and grateful to the Stomach.</p>
+               <p>So that Diaphoreticks is moſt proper in this caſe, and not Solu<g ref="char:EOLhyphen"/>tives, Phlebotomy, nor ſwimming, becauſe the firſt liquates the blood into a Putrilage, a ſecond robs Na<g ref="char:EOLhyphen"/>ture of its ſanguinary Treaſure, and the third ſhuts up the Wolf in the Stable, by locking up the Pores, keeps the virulent Ferment within, which therefore works the more powerfully in its infecting the in<g ref="char:EOLhyphen"/>ward Vitals.</p>
+               <p>Thus I have run through the de<g ref="char:EOLhyphen"/>ſcriptiou of this direful Diſeaſe, with its Symptoms, Zenextons, and Cures, which I confeſs is ſhort and it may be defective, which yet is pardonable, becauſe huddled up in haſt, in reſpect of the urgency of the Seaſon, that ſeems to threaten no
+<pb n="99" facs="tcp:37263:53"/>leſs then an Epidemical Diſaſter, which God in his mercy avert <hi>[or accompliſh his own work thereby, which no doubt will redound to the good of his Choſen.]</hi>
+               </p>
+               <p>And though naturally few Na<g ref="char:EOLhyphen"/>tions there are but one of three Judgments of Famine, Sword, or Peſtilence, reach them once in tweenty years ſpace, and that, I ſay, grounded naturally, becauſe where there is no one of theſe in a<g ref="char:EOLhyphen"/>ny Nation or Country, the Natives encreaſe ſo faſt, and multiply in ſuch multitudes, that unleſs they were ſwept away, they would even over-run one another, and, as it were, devour one another, or prey upon each others Poſſeſſions, ſo as to become burdenſom to the Earth; therefore a Beeſom of wrath comes once in 10. 12. 15. or 20 years and ſweeps away multitudes.</p>
+               <p>As to the foregoing Remedies
+<pb n="100" facs="tcp:37263:54"/>againſt the <hi>Plague,</hi> the <hi>Zenexton</hi> and <hi>Hippocrates</hi> his <hi>Alexipharmick,</hi> I look upon as the moſt eminent which I have partly ready by me, together with other aſſiſting Me<g ref="char:EOLhyphen"/>dicines, and the reſt ſcarce yet finiſh<g ref="char:EOLhyphen"/>ed, but will be in a very ſhort time, even in a few days: Other Medi<g ref="char:EOLhyphen"/>cines alſo proper in other caſes I have by me, having a Spagyrical <hi>Apparatus medicinalis,</hi> which I have not now time to ſpeak of.</p>
+               <closer>
+                  <dateline>
+                     <date>June, 26. 1665.</date> 
+                     <hi>From my Elabo<g ref="char:EOLhyphen"/>ratory at</hi> York.</dateline>
+               </closer>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:37263:54"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
